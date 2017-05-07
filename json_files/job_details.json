@@ -1,0 +1,3464 @@
+{
+   "0": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17803/company_logo.png",
+         "company_name": "Booking.com",
+         "job_link": "https://www.kaggle.com/jobs/17803/booking-com-data-scientist-machine-learning-amsterdam",
+         "job_location": "Amsterdam",
+         "job_position": "Data Scientist - Machine Learning",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.kdnuggets.com/jimg/apple-computer.jpg",
+         "company_name": "Apple",
+         "job_link": "http://www.kdnuggets.com/jobs/17/05-02-apple-data-science-engineer.html",
+         "job_location": "Austin, TX",
+         "job_position": "Data Science Engineer",
+         "posted_date": "2017-05-02"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Menlo Park",
+         "job_position": "Data Engineer, Analytics (WhatsApp)",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "New York",
+         "job_position": "BI Engineering Lead",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Manager, Experimentation Analysis Platform",
+         "posted_date": "2017-03-13"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Machine Learning Infrastructure - Engineering Manager",
+         "posted_date": "2017-02-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/vivienne%20court%20trading/vivienne-court-trading.png",
+         "company_name": "Vivienne Court Trading",
+         "job_link": "https://www.datawerq.com/jobs/vivienne-court-trading/",
+         "job_location": "Brisbane",
+         "job_position": "Junior Analyst",
+         "posted_date": "2017-02-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "eero",
+         "job_link": "https://jobs.dataelixir.com/jobs/1766099-data-scientist-at-eero",
+         "job_location": "San Francisco, California",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-04-19"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=623bf1ea30fdb72f&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Research Intern: Deep Learning",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "HR Partners Recruiters – San Juan, PR",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=5dfca4da2e661c5d&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "San Juan, PR",
+         "job_position": "Data Analyst (Data-mining SQL & Oracle)-MIS",
+         "posted_date": "2017-04-11"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Citi",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=c8e0ceb058ce7ff6&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Jersey City, NJ",
+         "job_position": "Compliance Officer - AML Advisory - Analytics & Data Mining",
+         "posted_date": "2017-03-07"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Veterans Sourcing Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=22b178fe3a1d4202&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Pennington, NJ 08534",
+         "job_position": "Data Mining lead (SAS/R Data Development)",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Staples",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-strategy-framingham-massachusetts-96318206-d?contextType=browse",
+         "job_location": "Framingham, Massachusetts United States",
+         "job_position": "Data Scientist - Strategy",
+         "posted_date": "2017-05-02"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Uber",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-mapping-technologies-uber-san-francisco-california-96160483-d?contextType=browse",
+         "job_location": "San Francisco, California United States",
+         "job_position": "Data Scientist: Mapping Technologies - Uber",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Uber",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-uber-freight-san-francisco-california-95743793-d?contextType=browse",
+         "job_location": "San Francisco, California United States",
+         "job_position": "Data scientist - Uber Freight",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "YouTube",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-quantitative-analyst-technical-lead-youtube-mountain-view-california-95743507-d?contextType=browse",
+         "job_location": "Mountain View, California United States",
+         "job_position": "Data Scientist / Quantitative Analyst Technical Lead - YouTube",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Booking.com",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-analytics-amsterdam-noord-holland-1017ce-95482413-d?contextType=browse",
+         "job_location": "Amsterdam, Noord-Holland 1017CE Netherlands",
+         "job_position": "Data Scientist – Analytics",
+         "posted_date": "2017-04-05"
+      },
+      {
+         "Source": "Github",
+         "company_logo": "NL",
+         "company_name": "Booking.com BV",
+         "job_link": "https://jobs.github.com/positions/f127a8ca-fdd3-11e6-81a4-fe9da905eb01",
+         "job_location": "Amsterdam, the Netherlands",
+         "job_position": "Data Scientist - Analytics",
+         "posted_date": "2017-05-01"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "eBay",
+         "job_link": "http://stackoverflow.com/jobs/139425/senior-java-scala-developer-f-m-ebay",
+         "job_location": "Berlin, Germany",
+         "job_position": "Senior Java/Scala Developer (f/m)",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "1": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17802/company_logo.png",
+         "company_name": "Booking.com",
+         "job_link": "https://www.kaggle.com/jobs/17802/booking-com-data-scientist-analytics-amsterdam",
+         "job_location": "Amsterdam",
+         "job_position": "Data Scientist - Analytics",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://cdn-static.findly.com/wp-content/uploads/sites/67/2015/07/GenMills-resized.png",
+         "company_name": "General Mills",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-21-general-mills-associate-strategic-revenue-management.html",
+         "job_location": "Minneapolis, MN",
+         "job_position": "Sr. Associate, Strategic Revenue Management",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/addepar.png",
+         "company_name": "Addepar",
+         "job_link": "https://www.datawerq.com/jobs/addepar/",
+         "job_location": "Mountain View",
+         "job_position": "Data Analyst",
+         "posted_date": "2017-04-25"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/certace/certace.PNG",
+         "company_name": "certace",
+         "job_link": "https://www.datawerq.com/jobs/certace/",
+         "job_location": "Canada",
+         "job_position": "Experienced Data Experts wanted: ML, Data Analysts, Data Engineers",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/quora.png",
+         "company_name": "Quora",
+         "job_link": "https://www.datawerq.com/jobs/quora/",
+         "job_location": "Mountain View",
+         "job_position": "Data Engineer",
+         "posted_date": "2017-03-13"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/lyft/lyft.png",
+         "company_name": "Lyft",
+         "job_link": "https://www.datawerq.com/jobs/lyft/",
+         "job_location": "San Francisco",
+         "job_position": "Director of Engineering, Developer Infrastructure",
+         "posted_date": "2017-02-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/data%20to%20decisions%20crc/data-to-decisions-crc.jpg",
+         "company_name": "Data to Decisions CRC",
+         "job_link": "https://www.datawerq.com/jobs/data-to-decisions-crc/",
+         "job_location": "Kent Town",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-02-13"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "https://https://d6dyoorq84mou.cloudfront.net/uploads/job/logo/1674681/thumb_Certace_logo_colours_transparent_background__large.png",
+         "company_name": "certace / Various Fortune 500 Companies",
+         "job_link": "https://jobs.dataelixir.com/jobs/1674681-freelancers-for-fortune-500-s-wanted-ml-data-analysts-data-engineers-data-strategists-at-certace-various-fortune-500-companies",
+         "job_location": "Anywhere",
+         "job_position": "Freelancers for Fortune 500’s wanted: ML, Data Analysts, Data Engineers, Data Strategists",
+         "posted_date": "2017-04-12"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=55c8c99371e1e5c5&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Software Development Intern",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=133ccc6b9ce30ae7&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Research Intern: Heterogeneous Data Mining",
+         "posted_date": "2017-02-01"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "GEICO",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=9329a43c6f26eba6&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Chevy Chase, MD",
+         "job_position": "Modeling Analyst - Data Mining and Statistical Analysis",
+         "posted_date": "2017-01-12"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Cyber Defense Solutions",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=a153db2394c6a914&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Reston, VA",
+         "job_position": "Principal Data Mining and Analytics Engineer (PDMAE) – Test Lead",
+         "posted_date": "2017-02-14"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "NBCUniversal Media, LLC",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-nbcuniversal-media-new-york-new-york-96160476-d?contextType=browse",
+         "job_location": "New York, New York United States",
+         "job_position": "Data Scientist - NBCUniversal Media",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Starbucks",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-business-strategy-starbucks-seattle-washington-96160489-d?contextType=browse",
+         "job_location": "Seattle, Washington United States",
+         "job_position": "Data Scientist, Business Strategy - Starbucks",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Qualcomm",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-senior-to-senior-staff-engineer-level-qualcomm-san-diego-california-95743519-d?contextType=browse",
+         "job_location": "San Diego, California United States",
+         "job_position": "Data Scientist (Senior to Senior Staff, Engineer level) - Qualcomm",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Bank of America",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/sr-data-scientist-bank-of-america-new-york-new-york-95717621-d?contextType=browse",
+         "job_location": "New York, New York United States",
+         "job_position": "Sr. Data Scientist - Bank of America",
+         "posted_date": "2017-04-12"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Ford Motor Company",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-advanced-operations-analytics-ford-dearborn-michigan-95282484-d?contextType=browse",
+         "job_location": "Dearborn, Michigan United States",
+         "job_position": "Data Scientist (Advanced Operations Analytics) - Ford",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Github",
+         "company_logo": "NL",
+         "company_name": "Bina Technologies (Roche Sequencing)",
+         "job_link": "https://jobs.github.com/positions/d3663dba-2e70-11e7-8ea6-6e4c46833a19",
+         "job_location": "Belmont, California, 94002, United",
+         "job_position": "Lead Front-End Engineer #Code2Cure",
+         "posted_date": "2017-05-01"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "eBay",
+         "job_link": "http://stackoverflow.com/jobs/139419/sr-data-engineer-ebay",
+         "job_location": "San Jose, CA",
+         "job_position": "Sr. Data Engineer",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "2": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17792/company_logo.png",
+         "company_name": "Digitalist Group",
+         "job_link": "https://www.kaggle.com/jobs/17792/digitalist-group-machine-learning-engineer-in-computer-vision-san-francisco",
+         "job_location": "San Francisco, Vancouver",
+         "job_position": "Machine Learning Engineer in Computer Vision",
+         "posted_date": "2017-05-03"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://cdn-static.findly.com/wp-content/uploads/sites/67/2015/07/GenMills-resized.png",
+         "company_name": "General Mills",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-21-general-mills-associate-manager-strategic-revenue-management.html",
+         "job_location": "Minneapolis, MN",
+         "job_position": "Associate Manager, Strategic Revenue Management",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/deutsche%20lufthansa%20ag/deutsche-lufthansa-ag.png",
+         "company_name": "Deutsche Lufthansa AG",
+         "job_link": "https://www.datawerq.com/jobs/deutsche-lufthansa-ag/",
+         "job_location": "Frankfurt",
+         "job_position": "Data Scientist (m/f) - Machine Learning",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/grassgreener%20europe/grassgreener-europe.jpg",
+         "company_name": "GrassGreener Europe",
+         "job_link": "https://www.datawerq.com/jobs/grassgreener-europe/",
+         "job_location": "Rotterdam",
+         "job_position": "Thought Leader Dataplatformen voor KPN",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "New York",
+         "job_position": "Measurement Partner Vertical Lead, Consumer Packaged Goods (CPG)",
+         "posted_date": "2017-03-10"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/scrapinghub/scrapinghub.png",
+         "company_name": "Scrapinghub",
+         "job_link": "https://www.datawerq.com/jobs/scrapinghub/",
+         "job_location": "Remote",
+         "job_position": "Data Scientist - Machine Learning",
+         "posted_date": "2017-02-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/unitymedia%20gmbh/unitymedia-gmbh.jpg",
+         "company_name": "Unitymedia GmbH",
+         "job_link": "https://www.datawerq.com/jobs/unitymedia-gmbh/",
+         "job_location": "Cologne",
+         "job_position": "Director Data Warehouse (m/w)",
+         "posted_date": "2017-02-13"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Vulcan Materials Company",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=3522bb0a1651ab39&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Birmingham, AL",
+         "job_position": "Data Mining Specialist",
+         "posted_date": "2017-03-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=623bf1ea30fdb72f&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Research Intern: Deep Learning",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Vinformax Systems Inc",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=217f1cb7bf10ad6e&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Redmond, WA",
+         "job_position": "Machine Learning and Data Mining",
+         "posted_date": "2017-04-18"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "On Demand Agility Solutions, Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=51f3abbefdfb713a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "New York, NY 10010",
+         "job_position": "Data Mining Analyst",
+         "posted_date": "2017-04-10"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Uber",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-mapping-technologies-uber-san-francisco-california-96160483-d?contextType=browse",
+         "job_location": "San Francisco, California United States",
+         "job_position": "Data Scientist: Mapping Technologies - Uber",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Squarespace",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-squarespace-greater-new-york-city-area-new-york-96160472-d?contextType=browse",
+         "job_location": "Greater New York City Area, New York United States",
+         "job_position": "Data Scientist - Squarespace",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "NBCUniversal Media, LLC",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-nbcuniversal-new-york-new-york-95743784-d?contextType=browse",
+         "job_location": "New York, New York United States",
+         "job_position": "Data Scientist - NBCUniversal",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "GSK",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-biomedical-r-d-data-coe-gsk-philadelphia-pennsylvania-95717618-d?contextType=browse",
+         "job_location": "Philadelphia, Pennsylvania United States",
+         "job_position": "Data Scientist (Biomedical) - R&D; Data CoE - GSK",
+         "posted_date": "2017-04-12"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Philips Lighting",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-senior-level-philips-cambridge-massachusetts-95282456-d?contextType=browse",
+         "job_location": "Cambridge, Massachusetts United States",
+         "job_position": "Data Scientist (Senior Level) - Philips",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Github",
+         "company_logo": "NL",
+         "company_name": "[24]7",
+         "job_link": "https://jobs.github.com/positions/9f697832-2a9d-11e7-9416-ec97c5d0ab4e",
+         "job_location": "Campbell, CA (Flex-time offered)",
+         "job_position": "Software Engineer/Sr. Software Engineer - Learning Systems (Virtual Agents, Chatbots for Enterprise Customer Applications)",
+         "posted_date": "2017-04-26"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "eBay",
+         "job_link": "http://stackoverflow.com/jobs/139417/lead-data-scientist-ebay",
+         "job_location": "Amsterdam, Netherlands",
+         "job_position": "Lead Data Scientist",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "3": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17790/company_logo.png",
+         "company_name": "DataCamp",
+         "job_link": "https://www.kaggle.com/jobs/17790/datacamp-data-science-curriculum-lead-new-york-city",
+         "job_location": "New York City",
+         "job_position": "Data Science Curriculum Lead",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/ida-logo.jpg",
+         "company_name": "Institute for Defense Analyses",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-21-institute-for-defense-analyses-data-scientist.html",
+         "job_location": "Alexandria, VA",
+         "job_position": "Sr. Data Scientist",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/spotify.pngw730h219",
+         "company_name": "Spotify",
+         "job_link": "https://www.datawerq.com/jobs/spotify/",
+         "job_location": "New York",
+         "job_position": "Data Scientist / Researcher",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Senior Data Analyst - Payments Analytics",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/lyft/lyft.png",
+         "company_name": "Lyft",
+         "job_link": "https://www.datawerq.com/jobs/lyft/",
+         "job_location": "San Francisco",
+         "job_position": "Local Competitive Insights Analyst",
+         "posted_date": "2017-03-10"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/zestfinance.png",
+         "company_name": "ZestFinance",
+         "job_link": "https://www.datawerq.com/jobs/zestfinance/",
+         "job_location": "Los Angeles",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-02-23"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/datarobot.jpg",
+         "company_name": "DataRobot",
+         "job_link": "https://www.datawerq.com/jobs/datarobot/",
+         "job_location": "Canada",
+         "job_position": "Data Science Evangelist",
+         "posted_date": "2017-02-13"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Grand Canyon University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=a2829ab853fe6a5a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Phoenix, AZ 85017",
+         "job_position": "Adjunct-Ground-Search Engines and Data Mining-CSET",
+         "posted_date": "2017-03-20"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=55c8c99371e1e5c5&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Software Development Intern",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Philips Lighting",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=c019789393f10923&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Cambridge, MA",
+         "job_position": "Web Data Mining Intern",
+         "posted_date": "2017-03-01"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Yelp",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=6812c3513a759fcd&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "San Francisco, CA 94105",
+         "job_position": "Software Engineer - Data-Mining (Ad Autobidding Team)",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Facebook",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-legal-facebook-menlo-park-california-96160479-d?contextType=browse",
+         "job_location": "Menlo Park, California United States",
+         "job_position": "Data Scientist, Legal - Facebook",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Hulu",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-hulu-santa-monica-california-96160475-d?contextType=browse",
+         "job_location": "Santa Monica, California United States",
+         "job_position": "Data Scientist - Hulu",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Booz Allen Hamilton",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-senior-booz-allen-washington-district-of-columbia-95743791-d?contextType=browse",
+         "job_location": "Washington, District of Columbia United States",
+         "job_position": "Data Scientist, Senior - Booz Allen",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Samsung",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-device-insights-mountain-view-california-95461249-d?contextType=browse",
+         "job_location": "Mountain View, California United States",
+         "job_position": "Data Scientist – Device Insights",
+         "posted_date": "2017-04-06"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Ubisoft",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-marketing-analytics-ubisoft-san-francisco-bay-area-95282465-d?contextType=browse",
+         "job_location": "San Francisco Bay Area United States",
+         "job_position": "Data Scientist, Marketing Analytics - Ubisoft",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Github",
+         "company_logo": "NL",
+         "company_name": "Artemis Capital Management",
+         "job_link": "https://jobs.github.com/positions/9b3c960c-29c3-11e7-8ce1-ad7ffdc4b2a3",
+         "job_location": "Austin, TX",
+         "job_position": "Quantitative Researcher & Programmer",
+         "posted_date": "2017-04-25"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "eBay",
+         "job_link": "http://stackoverflow.com/jobs/139413/senior-product-manager-communications-ebay",
+         "job_location": "Amsterdam, Netherlands",
+         "job_position": "Senior Product Manager Communications",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "4": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17787/company_logo.png",
+         "company_name": "Swift Capital",
+         "job_link": "https://www.kaggle.com/jobs/17787/swift-capital-credit-risk-strategies-analyst-wilmington-de",
+         "job_location": "Wilmington, DE",
+         "job_position": "Credit Risk Strategies Analyst",
+         "posted_date": "2017-04-22"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.kdnuggets.com/jimg/suny-buffalo.jpg",
+         "company_name": "SUNY Buffalo",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-19-suny-buffalo-postdoc-data-mining-bioinformatics.html",
+         "job_location": "Buffalo, NY",
+         "job_position": "Postdoc in Data Mining and Bioinformatics",
+         "posted_date": "2017-04-19"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/lyft/lyft.png",
+         "company_name": "Lyft",
+         "job_link": "https://www.datawerq.com/jobs/lyft/",
+         "job_location": "San Francisco",
+         "job_position": "Head of Data",
+         "posted_date": "2017-04-17"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/synergy/synergy.jpg",
+         "company_name": "Synergy",
+         "job_link": "https://www.datawerq.com/jobs/synergy/",
+         "job_location": "Abu Dhabi",
+         "job_position": "Artificial Intelligence / Cognitive Computing Architect",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/lyft/lyft.png",
+         "company_name": "Lyft",
+         "job_link": "https://www.datawerq.com/jobs/lyft/",
+         "job_location": "New York",
+         "job_position": "Local Competitive Insights Analyst - New York",
+         "posted_date": "2017-03-10"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "New York",
+         "job_position": "Data Engineer, Analytics",
+         "posted_date": "2017-02-22"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "VP of Product Innovation - Algorithms",
+         "posted_date": "2017-02-13"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Intellipro Group Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=d20dd026aeb7bdc3&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Seattle, WA",
+         "job_position": "Data Mining Expert",
+         "posted_date": "2017-03-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Grand Canyon University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=b8082f7edd851baf&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Phoenix, AZ 85017",
+         "job_position": "Adjunct - Data Mining - Traditional Campus - Colangelo College of Business",
+         "posted_date": "2017-01-19"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Level 3 Communications",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=fd5862e0407b3aa6&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Broomfield, CO 80020",
+         "job_position": "Intern - Data Mining",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "The Rawlings Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=1b4f164c5afad620&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Lagrange, KY 40031",
+         "job_position": "Data Mining Analyst",
+         "posted_date": "2017-05-05"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Warner Bros. Entertainment Group of Companies",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/sr-data-scientist-warner-bros-entertainment-burbank-california-96160481-d?contextType=browse",
+         "job_location": "Burbank, California United States",
+         "job_position": "Sr. Data Scientist - Warner Bros. Entertainment",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Monsanto",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-emerging-leaders-in-science-program-st-louis-missouri-96083264-d?contextType=browse",
+         "job_location": "St. Louis, Missouri United States",
+         "job_position": "Data Scientist - Emerging Leaders in Science Program",
+         "posted_date": "2017-04-25"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "The World Bank",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-the-world-bank-washington-d-c-metro-area-95743788-d?contextType=browse",
+         "job_location": "Washington D.C. Metro Area United States",
+         "job_position": "Data Scientist - The World Bank",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Samsung",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/sr-data-scientist-strategic-analytics-dallas-texas-95460548-d?contextType=browse",
+         "job_location": "Dallas, Texas United States",
+         "job_position": "Sr. Data Scientist - Strategic Analytics",
+         "posted_date": "2017-04-06"
+      },
+      {
+         "Source": "AnalyticsTalent",
+         "company_logo": "NL",
+         "company_name": "Logitech",
+         "job_link": "http://careers.analytictalent.com/jobs/jobs/data-scientist-logitech-newark-california-95282327-d?contextType=browse",
+         "job_location": "Newark, California United States",
+         "job_position": "Data Scientist - Logitech",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Github",
+         "company_logo": "NL",
+         "company_name": "CSIRO",
+         "job_link": "https://jobs.github.com/positions/7b990e0a-1e53-11e7-8acb-2464cff86202",
+         "job_location": "Eveleigh, NSW",
+         "job_position": "Software Engineer - Cloud, IoT, Scala",
+         "posted_date": "2017-04-11"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Leepfrog Technologies, Inc.",
+         "job_link": "http://stackoverflow.com/jobs/141479/javascript-developer-leepfrog-technologies-inc",
+         "job_location": "Coralville, IA",
+         "job_position": "JavaScript Developer",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "5": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17786/company_logo.png",
+         "company_name": "Austrian Airlines AG",
+         "job_link": "https://www.kaggle.com/jobs/17786/austrian-airlines-ag-manager-customer-analytics-with-focus-on-data-engineering",
+         "job_location": "Vienna (Austria)",
+         "job_position": "Manager Customer Analytics with Focus on Data Engine...",
+         "posted_date": "2017-04-22"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/54312-faff0300870c2713f3356a38d36dae77-medium_jpg.jpg?buster=1417629275",
+         "company_name": "Sift Science",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-17-sift-science-software-engineer-machine-learning.html",
+         "job_location": "San Francisco, CA, or Seattle, WA",
+         "job_position": "Sr. Software Engineer, Machine Learning",
+         "posted_date": "2017-04-17"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/jawbone.png",
+         "company_name": "Jawbone",
+         "job_link": "https://www.datawerq.com/jobs/jawbone/",
+         "job_location": "San Francisco",
+         "job_position": "Data Analyst",
+         "posted_date": "2017-04-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/handelsblatt%20gmbh/handelsblatt-gmbh.jpg",
+         "company_name": "Handelsblatt GmbH",
+         "job_link": "https://www.datawerq.com/jobs/handelsblatt-gmbh/",
+         "job_location": "Düsseldorf",
+         "job_position": "(Wirtschafts-)Informatiker als (Senior) Database Developer (w/m) zum Auf- & Ausbau der unternehmensweiten Datenbanklandschaft – SQL / Phyton / C#",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "London",
+         "job_position": "Data Insights Strategist, Mobile Partnerships",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/aci%20worldwide/aci-worldwide.png",
+         "company_name": "ACI Worldwide",
+         "job_link": "https://www.datawerq.com/jobs/aci-worldwide/",
+         "job_location": "Providence",
+         "job_position": "Sr Data Scientist",
+         "posted_date": "2017-02-22"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/ripple/ripple.png",
+         "company_name": "Ripple",
+         "job_link": "https://www.datawerq.com/jobs/ripple/",
+         "job_location": "San Francisco",
+         "job_position": "Data Engineer (IoV)",
+         "posted_date": "2017-02-13"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "phia",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=1a3aebef13a81377&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Falls Church, VA",
+         "job_position": "Data Mining & Analytics Engineer (Cyber)",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Amazon Corporate LLC",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=cd024acc70cfa2de&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Seattle, WA",
+         "job_position": "Data Scientist - Risk Mining",
+         "posted_date": "2017-03-17"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Nelnet",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=655d0f864b37278c&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Lincoln, NE",
+         "job_position": "Data Mining Analyst",
+         "posted_date": "2017-03-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Quality Health Strategies",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=2733f6933e2202cf&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Baltimore, MD",
+         "job_position": "Data Scientist - NLP/Text Mining",
+         "posted_date": "2017-03-19"
+      },
+      {
+         "Source": "Github",
+         "company_logo": "NL",
+         "company_name": "Schrödinger",
+         "job_link": "https://jobs.github.com/positions/378c1538-1d52-11e7-9373-6fff8c73d8d9",
+         "job_location": "New York, NY",
+         "job_position": "Software Engineer, Backend",
+         "posted_date": "2017-04-09"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Atlassian",
+         "job_link": "http://stackoverflow.com/jobs/139409/cloud-architect-jira-java-reactjs-aws-atlassian",
+         "job_location": "Sydney, Australia",
+         "job_position": "Cloud Architect - JIRA (Java / ReactJS / AWS)",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "6": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17785/company_logo.png",
+         "company_name": "Deutsche Lufthansa AG",
+         "job_link": "https://www.kaggle.com/jobs/17785/deutsche-lufthansa-ag-data-scientist-m-f-data-visualization-frankfurt-am",
+         "job_location": "Frankfurt am Main (Germany)",
+         "job_position": "Data Scientist (m/f) - Data Visualization",
+         "posted_date": "2017-04-22"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/jh-apl.jpg",
+         "company_name": "The Johns Hopkins University Applied Physics Laboratory",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-14-johns-hopkins-data-scientist.html",
+         "job_location": "Laurel, MD",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-04-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/udacity/udacity.png",
+         "company_name": "Udacity",
+         "job_link": "https://www.datawerq.com/jobs/udacity/",
+         "job_location": "Mountain View",
+         "job_position": "Nanodegree Services Lead, Self Driving Car",
+         "posted_date": "2017-03-31"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/udacity/udacity.png",
+         "company_name": "Udacity",
+         "job_link": "https://www.datawerq.com/jobs/udacity/",
+         "job_location": "São Paulo",
+         "job_position": "Data Analyst, Intern",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Menlo Park",
+         "job_position": "Instagram Community Lab: Program Manager, Product",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/bookingcom.jpg",
+         "company_name": "Booking.com",
+         "job_link": "https://www.datawerq.com/jobs/bookingcom/",
+         "job_location": "Amsterdam",
+         "job_position": "Data Scientist – Analytics",
+         "posted_date": "2017-02-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/trivago.png",
+         "company_name": "trivago",
+         "job_link": "https://www.datawerq.com/jobs/trivago/",
+         "job_location": "Düsseldorf",
+         "job_position": "Data Scientist - Anomaly Detection Algorithm",
+         "posted_date": "2017-02-11"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Penn State University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4010ab0e6c42ea3e&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "University Park, PA",
+         "job_position": "Postdoctoral Scholar in Data Mining for Environmental Geosciences",
+         "posted_date": "2017-01-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Vulcan Materials Company",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=3522bb0a1651ab39&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Birmingham, AL",
+         "job_position": "Data Mining Specialist",
+         "posted_date": "2017-03-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "HR Partners Recruiters – San Juan, PR",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=5dfca4da2e661c5d&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "San Juan, PR",
+         "job_position": "Data Analyst (Data-mining SQL & Oracle)-MIS",
+         "posted_date": "2017-04-11"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "SearchTech Consulting, Inc",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=872321f39202fefa&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Mountain View, CA",
+         "job_position": "Machine Learning and Data Mining",
+         "posted_date": "2017-03-15"
+      },
+      {
+         "Source": "Github",
+         "company_logo": "NL",
+         "company_name": "Chegg",
+         "job_link": "https://jobs.github.com/positions/fe87b2ee-1b06-11e7-8b36-1eaf9cf2d534",
+         "job_location": "Santa Clara CA",
+         "job_position": "Sr Front End Software Engineer - Chegg",
+         "posted_date": "2017-04-06"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "eBay",
+         "job_link": "http://stackoverflow.com/jobs/139408/java-go-developer-ebay",
+         "job_location": "Amsterdam, Netherlands",
+         "job_position": "JAVA GO Developer",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "7": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17784/company_logo.png",
+         "company_name": "Deutsche Lufthansa AG",
+         "job_link": "https://www.kaggle.com/jobs/17784/deutsche-lufthansa-ag-data-scientist-m-f-machine-learning-frankfurt-am",
+         "job_location": "Frankfurt am Main (Germany)",
+         "job_position": "Data Scientist (m/f) - Machine Learning",
+         "posted_date": "2017-04-22"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/discover-financial.png",
+         "company_name": "Discover Financial Services",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-13-discover-financial-services-manager-decision-analytics.html",
+         "job_location": "Riverwoods, IL",
+         "job_position": "Manager, Decision Analytics",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/infare/infare.jpg",
+         "company_name": "Infare",
+         "job_link": "https://www.datawerq.com/jobs/infare/",
+         "job_location": "Kastrup",
+         "job_position": "Data Scientist for Airfare Intelligence",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/indica%20labs/indica-labs.png",
+         "company_name": "Indica Labs",
+         "job_link": "https://www.datawerq.com/jobs/indica-labs/",
+         "job_location": "Corrales",
+         "job_position": "Image Analysis Engineer",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Canada",
+         "job_position": "BI Engineer",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "London",
+         "job_position": "Data Scientist, Analytics",
+         "posted_date": "2017-02-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/trivago.png",
+         "company_name": "trivago",
+         "job_link": "https://www.datawerq.com/jobs/trivago/",
+         "job_location": "Düsseldorf",
+         "job_position": "Big Data Engineer - Spark",
+         "posted_date": "2017-02-11"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Oliver James Associates",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=d78edd3ec13050a0&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "New York, NY",
+         "job_position": "Data Mining Analyst - Senior",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Intellipro Group Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=d20dd026aeb7bdc3&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Seattle, WA",
+         "job_position": "Data Mining Expert",
+         "posted_date": "2017-03-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=133ccc6b9ce30ae7&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Research Intern: Heterogeneous Data Mining",
+         "posted_date": "2017-02-01"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "TechSpace Solutions Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=5f3902dbaef00512&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Philadelphia, PA 19019",
+         "job_position": "Data Mining Consultant",
+         "posted_date": "2017-05-05"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Hudson River Trading",
+         "job_link": "http://stackoverflow.com/jobs/142133/operations-developer-hudson-river-trading",
+         "job_location": "New York, NY",
+         "job_position": "Operations Developer",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "8": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17783/company_logo.png",
+         "company_name": "Deutsche Lufthansa AG",
+         "job_link": "https://www.kaggle.com/jobs/17783/deutsche-lufthansa-ag-data-scientist-m-f-data-science-and-engineering-frankfurt",
+         "job_location": "Frankfurt am Main (Germany)",
+         "job_position": "Data Scientist (m/f) – Data Science and Engineering",
+         "posted_date": "2017-04-22"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "https://d3c5s1hmka2e2b.cloudfront.net/uploads/topic/image/34/tf-logo-blue_1-1.png",
+         "company_name": "Thinkful, Inc.",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-13-thinkful-inc-data-science-bootcamp-mentor.html",
+         "job_location": "Remote. Thinkful HQ is based in NYC.",
+         "job_position": "Data Science Bootcamp Mentor",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/rentalcars.com/rentalcarscom.png",
+         "company_name": "Rentalcars.com",
+         "job_link": "https://www.datawerq.com/jobs/rentalcarscom/",
+         "job_location": "Manchester",
+         "job_position": "Head of Data Science",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/udacity/udacity.png",
+         "company_name": "Udacity",
+         "job_link": "https://www.datawerq.com/jobs/udacity/",
+         "job_location": "Istanbul",
+         "job_position": "Course Manager, Data Analysis",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Menlo Park",
+         "job_position": "Data Scientist, Analytics",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/bookingcom.jpg",
+         "company_name": "Booking.com",
+         "job_link": "https://www.datawerq.com/jobs/bookingcom/",
+         "job_location": "Amsterdam",
+         "job_position": "Data Scientist – Machine Learning",
+         "posted_date": "2017-02-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/stratagem%20technologies%20ltd/stratagem-technologies-ltd.png",
+         "company_name": "Stratagem Technologies Ltd",
+         "job_link": "https://www.datawerq.com/jobs/stratagem-technologies-ltd/",
+         "job_location": "London",
+         "job_position": "Machine Learning Researcher - Sports",
+         "posted_date": "2017-02-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Metasis Information System",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=5c5ea7afd7cc3a45&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Philadelphia, PA",
+         "job_position": "Data Mining",
+         "posted_date": "2017-04-19"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Grand Canyon University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=a2829ab853fe6a5a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Phoenix, AZ 85017",
+         "job_position": "Adjunct-Ground-Search Engines and Data Mining-CSET",
+         "posted_date": "2017-03-20"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=623bf1ea30fdb72f&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Research Intern: Deep Learning",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "The Rawlings Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=cf1d9b517915a7ed&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Lagrange, KY 40031",
+         "job_position": "AVP Data Mining",
+         "posted_date": "2017-05-05"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Hudson River Trading",
+         "job_link": "http://stackoverflow.com/jobs/142132/devops-engineer-networks-hudson-river-trading",
+         "job_location": "New York, NY",
+         "job_position": "DevOps Engineer - Networks",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "9": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17756/company_logo.png",
+         "company_name": "Data Science Talent Ltd",
+         "job_link": "https://www.kaggle.com/jobs/17756/data-science-talent-ltd-data-scientist-phd-paradise-germany-germany",
+         "job_location": "Germany",
+         "job_position": "Data Scientist - PhD Paradise - Germany",
+         "posted_date": "2017-04-12"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.kdnuggets.com/wp-content/uploads/wfp-vam-logo.jpg",
+         "company_name": "World Food Programme",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-12-world-food-programme-data-scientist.html",
+         "job_location": "Rome, Italy",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-04-12"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Senior Data Engineer, Core Data",
+         "posted_date": "2017-03-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/vitol/vitol.png",
+         "company_name": "Vitol",
+         "job_link": "https://www.datawerq.com/jobs/vitol/",
+         "job_location": "London",
+         "job_position": "Jnr. Data Scientist / Developer",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/shopify/shopify.png",
+         "company_name": "Shopify",
+         "job_link": "https://www.datawerq.com/jobs/shopify/",
+         "job_location": "Toronto",
+         "job_position": "Senior Product Analyst",
+         "posted_date": "2017-03-07"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/rsg/rsg.png",
+         "company_name": "RSG",
+         "job_link": "https://www.datawerq.com/jobs/rsg/",
+         "job_location": "Hartford",
+         "job_position": "Research Analyst: National Parks & Public Lands",
+         "posted_date": "2017-02-20"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/experian/experian.jpg",
+         "company_name": "Experian",
+         "job_link": "https://www.datawerq.com/jobs/experian/",
+         "job_location": "Indianapolis",
+         "job_position": "Data Modeler Analyst",
+         "posted_date": "2017-02-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Yelp",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=6812c3513a759fcd&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "San Francisco, CA 94105",
+         "job_position": "Software Engineer - Data-Mining (Ad Autobidding Team)",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "phia",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=1a3aebef13a81377&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Falls Church, VA",
+         "job_position": "Data Mining & Analytics Engineer (Cyber)",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=55c8c99371e1e5c5&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Software Development Intern",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Stride Search",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=7c81014e53130b4e&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Sunnyvale, CA",
+         "job_position": "Director of Analytics / Data Mining",
+         "posted_date": "2017-04-04"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Facebook",
+         "job_link": "http://stackoverflow.com/jobs/139404/data-engineer-analytics-facebook",
+         "job_location": "Tel Aviv",
+         "job_position": "Data Engineer, Analytics",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "10": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17753/company_logo.jpg",
+         "company_name": "Grubhub",
+         "job_link": "https://www.kaggle.com/jobs/17753/grubhub-lead-data-scientist-new-york-new-york",
+         "job_location": "New York, New York",
+         "job_position": "Lead Data Scientist",
+         "posted_date": "2017-04-11"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.kdnuggets.com/jimg/apple-computer.jpg",
+         "company_name": "Apple",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-11-apple-data-mining-scientist.html",
+         "job_location": "Austin, TX",
+         "job_position": "Data Mining Scientist",
+         "posted_date": "2017-04-11"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/foursquare/foursquare.png",
+         "company_name": "Foursquare",
+         "job_link": "https://www.datawerq.com/jobs/foursquare/",
+         "job_location": "New York",
+         "job_position": "Data Product Manager",
+         "posted_date": "2017-03-22"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/accenture/accenture.png",
+         "company_name": "Accenture",
+         "job_link": "https://www.datawerq.com/jobs/accenture/",
+         "job_location": "Dublin",
+         "job_position": "AI Software Developer",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/udacity/udacity.png",
+         "company_name": "Udacity",
+         "job_link": "https://www.datawerq.com/jobs/udacity/",
+         "job_location": "Mountain View",
+         "job_position": "Course Developer - Self Driving Car",
+         "posted_date": "2017-03-07"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/research%20square/research-square.png",
+         "company_name": "Research Square",
+         "job_link": "https://www.datawerq.com/jobs/research-square/",
+         "job_location": "Remote",
+         "job_position": "TensorFlow Consultant",
+         "posted_date": "2017-02-20"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/china%20rapid%20finance%20limited/china-rapid-finance-limited.png",
+         "company_name": "China Rapid Finance Limited",
+         "job_link": "https://www.datawerq.com/jobs/china-rapid-finance-limited/",
+         "job_location": "Mountain View",
+         "job_position": "Data Scientist/Engineer",
+         "posted_date": "2017-02-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Veterans Sourcing Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=22b178fe3a1d4202&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Pennington, NJ 08534",
+         "job_position": "Data Mining lead (SAS/R Data Development)",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Penn State University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4010ab0e6c42ea3e&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "University Park, PA",
+         "job_position": "Postdoctoral Scholar in Data Mining for Environmental Geosciences",
+         "posted_date": "2017-01-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Grand Canyon University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=b8082f7edd851baf&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Phoenix, AZ 85017",
+         "job_position": "Adjunct - Data Mining - Traditional Campus - Colangelo College of Business",
+         "posted_date": "2017-01-19"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Olivier James Associates",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=3fe6a5126d9620bd&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "New York, NY 10261",
+         "job_position": "Data Mining Analyst - Senior",
+         "posted_date": "2017-05-05"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "FarmLogs",
+         "job_link": "http://stackoverflow.com/jobs/139403/android-developer-farmlogs",
+         "job_location": "Ann Arbor, MI",
+         "job_position": "Android Developer",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "11": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17743/company_logo.png",
+         "company_name": "Deeter Investments",
+         "job_link": "https://www.kaggle.com/jobs/17743/deeter-investments-algorithmic-trading-developer-austin-tx",
+         "job_location": "Austin, TX",
+         "job_position": "Algorithmic Trading Developer",
+         "posted_date": "2017-04-06"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/rocket-logo.jpg",
+         "company_name": "Rocket Software",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-07-rocket-software-data-scientist-ii.html",
+         "job_location": "Austin, TX",
+         "job_position": "Data Scientist II",
+         "posted_date": "2017-04-07"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/change/change.png",
+         "company_name": "Change.org",
+         "job_link": "https://www.datawerq.com/jobs/change/",
+         "job_location": "San Francisco",
+         "job_position": "Head of Data Science",
+         "posted_date": "2017-03-22"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/parkopedia/parkopedia.jpg",
+         "company_name": "Parkopedia",
+         "job_link": "https://www.datawerq.com/jobs/parkopedia/",
+         "job_location": "London",
+         "job_position": "Data Engineer",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/isric/isric.jpg",
+         "company_name": "ISRIC",
+         "job_link": "https://www.datawerq.com/jobs/isric/",
+         "job_location": "Wageningen",
+         "job_position": "Web Services and Geo-computation expert",
+         "posted_date": "2017-03-06"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/accedo/accedo.png",
+         "company_name": "Accedo",
+         "job_link": "https://www.datawerq.com/jobs/accedo/",
+         "job_location": "Stockholm",
+         "job_position": "Data Processing Engineer",
+         "posted_date": "2017-02-17"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/unitymedia%20gmbh/unitymedia-gmbh.jpg",
+         "company_name": "Unitymedia GmbH",
+         "job_link": "https://www.datawerq.com/jobs/unitymedia-gmbh/",
+         "job_location": "Cologne",
+         "job_position": "Manager (m/w) Business Intelligence Competence Center EPM and Planning",
+         "posted_date": "2017-02-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Veterans Sourcing Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=0750f67c9a7cab00&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Pennington, NJ",
+         "job_position": "Data Mining Lead (SAS/R Development)",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Oliver James Associates",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=d78edd3ec13050a0&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "New York, NY",
+         "job_position": "Data Mining Analyst - Senior",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Amazon Corporate LLC",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=cd024acc70cfa2de&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Seattle, WA",
+         "job_position": "Data Scientist - Risk Mining",
+         "posted_date": "2017-03-17"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "NCS Technologies",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=7d2e41db29cb31cd&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Pennington, NJ 08534",
+         "job_position": "SAS developer/ Data mining",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Fresnel Software",
+         "job_link": "http://stackoverflow.com/jobs/142131/sales-executive-fresnel-software",
+         "job_location": "Calgary, AB, Canada",
+         "job_position": "Sales Executive",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "12": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17580/company_logo.png",
+         "company_name": "Booz Allen Hamilton",
+         "job_link": "https://www.kaggle.com/jobs/17580/booz-allen-hamilton-data-scientist-washington-dc-boston-ma-san-diego-ca",
+         "job_location": "Washington, DC, Boston, MA, San ...",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-02-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/rocket-logo.jpg",
+         "company_name": "Rocket Software",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-07-rocket-software-principal-machine-learning-engineer.html",
+         "job_location": "Austin, TX",
+         "job_position": "Principal Machine Learning Engineer",
+         "posted_date": "2017-04-07"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Senior Research Engineer - Search, Targeting & Recommendations",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/peak6%20investments/peak6-investments.jpg",
+         "company_name": "PEAK6 Investments",
+         "job_link": "https://www.datawerq.com/jobs/peak6-investments/",
+         "job_location": "Chicago",
+         "job_position": "Quantitative Analyst",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/betable/betable.png",
+         "company_name": "Betable",
+         "job_link": "https://www.datawerq.com/jobs/betable/",
+         "job_location": "Edmonton",
+         "job_position": "Data Analyst",
+         "posted_date": "2017-03-06"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/barrick%20gold%20corporation/barrick-gold-corporation.jpg",
+         "company_name": "Barrick Gold Corporation",
+         "job_link": "https://www.datawerq.com/jobs/barrick-gold-corporation/",
+         "job_location": "Henderson",
+         "job_position": "Data Scientist Lead",
+         "posted_date": "2017-02-17"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/quintilesims/quintilesims.png",
+         "company_name": "QuintilesIMS",
+         "job_link": "https://www.datawerq.com/jobs/quintilesims/",
+         "job_location": "Philadelphia",
+         "job_position": "Machine Learning Researcher",
+         "posted_date": "2017-02-09"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Cyber Defense Solutions",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=a153db2394c6a914&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Reston, VA",
+         "job_position": "Principal Data Mining and Analytics Engineer (PDMAE) – Test Lead",
+         "posted_date": "2017-02-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Veterans Sourcing Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=0750f67c9a7cab00&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Pennington, NJ",
+         "job_position": "Data Mining Lead (SAS/R Development)",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Vulcan Materials Company",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=3522bb0a1651ab39&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Birmingham, AL",
+         "job_position": "Data Mining Specialist",
+         "posted_date": "2017-03-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4019558e35911e25&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Research Intern: Pattern and Anomaly Detection in Multi-Time Series",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Fresnel Software",
+         "job_link": "http://stackoverflow.com/jobs/139400/full-stack-programmer-fresnel-software",
+         "job_location": "Calgary, AB, Canada",
+         "job_position": "Full Stack Programmer",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "13": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17804/company_logo.jpg",
+         "company_name": "RSG",
+         "job_link": "https://www.kaggle.com/jobs/17804/rsg-transportation-market-research-analyst-arlington-virginia",
+         "job_location": "Arlington, Virginia",
+         "job_position": "Transportation Market Research Analyst",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "https://www.redventures.com/assets/desktop-a/images/favicon/apple-touch-icon.png?v=v2",
+         "company_name": "Red Ventures",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-05-red-ventures-data-scientist.html",
+         "job_location": "Charlotte, NC",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-04-05"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/hackerrank/hackerrank.png",
+         "company_name": "HackerRank",
+         "job_link": "https://www.datawerq.com/jobs/hackerrank/",
+         "job_location": "Bengaluru",
+         "job_position": "Machine Learning Leader",
+         "posted_date": "2017-03-07"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/accenture/accenture.png",
+         "company_name": "Accenture",
+         "job_link": "https://www.datawerq.com/jobs/accenture/",
+         "job_location": "Dublin",
+         "job_position": "Analytics Senior Manager",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/unitymedia/unitymedia.png",
+         "company_name": "Unitymedia",
+         "job_link": "https://www.datawerq.com/jobs/unitymedia/",
+         "job_location": "Cologne",
+         "job_position": "Director Data Analysis (m/w) im Bereich Customer Experience",
+         "posted_date": "2017-03-06"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/longshot%20systems/longshot-systems.png",
+         "company_name": "Longshot Systems",
+         "job_link": "https://www.datawerq.com/jobs/longshot-systems/",
+         "job_location": "London",
+         "job_position": "Senior Machine Learning Researcher for fast growing startup",
+         "posted_date": "2017-02-17"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Los Angeles",
+         "job_position": "Measurement Partner, eCommerce Vertical",
+         "posted_date": "2017-02-09"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Quality Health Strategies",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=2733f6933e2202cf&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Baltimore, MD",
+         "job_position": "Data Scientist - NLP/Text Mining",
+         "posted_date": "2017-03-19"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Metasis Information System",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=5c5ea7afd7cc3a45&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Philadelphia, PA",
+         "job_position": "Data Mining",
+         "posted_date": "2017-04-19"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Intellipro Group Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=d20dd026aeb7bdc3&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Seattle, WA",
+         "job_position": "Data Mining Expert",
+         "posted_date": "2017-03-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Grand Canyon University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=8c2717e99aebb58a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Phoenix, AZ 85017",
+         "job_position": "Adjunct – Traditional Campus – College of Science, Engineering and Technology – Search Engines and Data Mining Lecture & Lab",
+         "posted_date": "2017-03-07"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Copious",
+         "job_link": "http://stackoverflow.com/jobs/128376/php-developer-magento-copious",
+         "job_location": "Portland, OR",
+         "job_position": "PHP Developer (Magento)",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "14": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17801/company_logo.jpg",
+         "company_name": "Electronic Arts",
+         "job_link": "https://www.kaggle.com/jobs/17801/electronic-arts-ai-scientist-redwood-shores-ca",
+         "job_location": "Redwood Shores, CA",
+         "job_position": "AI Scientist",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.samsung.com/us/images/common/samsung-logo.jpg",
+         "company_name": "Samsung",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-05-samsung-senior-data-scientist-device-insights.html",
+         "job_location": "Mountain View, CA, or Dallas, TX",
+         "job_position": "Senior Data Scientist – Device Insights",
+         "posted_date": "2017-04-05"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/spotify.pngw730h219",
+         "company_name": "Spotify",
+         "job_link": "https://www.datawerq.com/jobs/spotify/",
+         "job_location": "Boston",
+         "job_position": "Machine Learning Engineer",
+         "posted_date": "2017-03-04"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/stevens%20capital%20management%20lp/stevens-capital-management-lp.jpg",
+         "company_name": "Stevens Capital Management LP",
+         "job_link": "https://www.datawerq.com/jobs/stevens-capital-management-lp/",
+         "job_location": "Canada",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/jimdo%20gmbh/jimdo-gmbh.png",
+         "company_name": "Jimdo GmbH",
+         "job_link": "https://www.datawerq.com/jobs/jimdo-gmbh/",
+         "job_location": "Hamburg",
+         "job_position": "(Senior) Data Scientist",
+         "posted_date": "2017-03-06"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/invesco/invesco.jpg",
+         "company_name": "Invesco",
+         "job_link": "https://www.datawerq.com/jobs/invesco/",
+         "job_location": "Houston",
+         "job_position": "Lead Data Scientist",
+         "posted_date": "2017-02-17"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/credibly/credibly.jpg",
+         "company_name": "Credibly",
+         "job_link": "https://www.datawerq.com/jobs/credibly/",
+         "job_location": "New York",
+         "job_position": "Director of Portfolio Management",
+         "posted_date": "2017-02-08"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "On Demand Agility Solutions, Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=51f3abbefdfb713a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "New York, NY 10010",
+         "job_position": "Data Mining Analyst",
+         "posted_date": "2017-04-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Veterans Sourcing Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=22b178fe3a1d4202&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Pennington, NJ 08534",
+         "job_position": "Data Mining lead (SAS/R Data Development)",
+         "posted_date": "2017-03-08"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Grand Canyon University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=a2829ab853fe6a5a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Phoenix, AZ 85017",
+         "job_position": "Adjunct-Ground-Search Engines and Data Mining-CSET",
+         "posted_date": "2017-03-20"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Smith & Keller",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4ba687486361ead1&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Arlington, VA",
+         "job_position": "Python Developer – Data Mining & Web Crawling",
+         "posted_date": "2017-03-20"
+      },
+      {
+         "Source": "Stackoverflow",
+         "company_logo": "NL",
+         "company_name": "Facebook",
+         "job_link": "http://stackoverflow.com/jobs/139396/developer-support-engineer-facebook",
+         "job_location": "Dublin, Ireland",
+         "job_position": "Developer Support Engineer",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "15": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17800/company_logo.png",
+         "company_name": "InCloudCounsel",
+         "job_link": "https://www.kaggle.com/jobs/17800/incloudcounsel-machine-learning-engineer-san-francisco",
+         "job_location": "San Francisco",
+         "job_position": "Machine Learning Engineer",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.samsung.com/us/images/common/samsung-logo.jpg",
+         "company_name": "Samsung",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-05-samsung-senior-data-scientist.html",
+         "job_location": "Dallas, TX",
+         "job_position": "Senior Data Scientist – Strategic Analytics",
+         "posted_date": "2017-04-05"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/nationwide%20children's%20hospital/nationwide-childrens-hospital.jpg",
+         "company_name": "Nationwide Children's Hospital",
+         "job_link": "https://www.datawerq.com/jobs/nationwide-childrens-hospital/",
+         "job_location": "Columbus",
+         "job_position": "Data Scientist II",
+         "posted_date": "2017-02-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/so1/so1.png",
+         "company_name": "So1",
+         "job_link": "https://www.datawerq.com/jobs/so1/",
+         "job_location": "Berlin",
+         "job_position": "Machine Learning Research Engineer",
+         "posted_date": "2017-03-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/fractal%20logistics/fractal-logistics.png",
+         "company_name": "Fractal Logistics",
+         "job_link": "https://www.datawerq.com/jobs/fractal-logistics/",
+         "job_location": "London",
+         "job_position": "Analytic Genius",
+         "posted_date": "2017-03-05"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/capital-one.png",
+         "company_name": "Capital One",
+         "job_link": "https://www.datawerq.com/jobs/capital-one/",
+         "job_location": "Nottingham",
+         "job_position": "Data Scientist - Post-Grad Programme",
+         "posted_date": "2017-02-16"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/min%20doktor/min-doktor.png",
+         "company_name": "Min Doktor",
+         "job_link": "https://www.datawerq.com/jobs/min-doktor/",
+         "job_location": "Malmö",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-02-08"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "SearchTech Consulting, Inc",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=872321f39202fefa&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Mountain View, CA",
+         "job_position": "Machine Learning and Data Mining",
+         "posted_date": "2017-03-15"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Cyber Defense Solutions",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=a153db2394c6a914&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Reston, VA",
+         "job_position": "Principal Data Mining and Analytics Engineer (PDMAE) – Test Lead",
+         "posted_date": "2017-02-14"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "phia",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=1a3aebef13a81377&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Falls Church, VA",
+         "job_position": "Data Mining & Analytics Engineer (Cyber)",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Yelp",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=906184726d4caf75&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "San Francisco, CA 94105",
+         "job_position": "Engineering Manager - Data Mining - Ad Creative",
+         "posted_date": "2017-04-29"
+      }
+   ],
+   "16": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17798/company_logo.PNG",
+         "company_name": "John Hancock",
+         "job_link": "https://www.kaggle.com/jobs/17798/john-hancock-principal-data-engineer-1704254-boston-usa",
+         "job_location": "Boston, USA",
+         "job_position": "Principal Data Engineer - 1704254",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/usf-logo.jpg",
+         "company_name": "University of San Francisco",
+         "job_link": "http://www.kdnuggets.com/jobs/17/04-04-university-san-francisco-assistant-professor-analytics-program.html",
+         "job_location": "San Francisco, CA",
+         "job_position": "Assistant Professor, Master of Science in Analytics Program",
+         "posted_date": "2017-04-04"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/royal%20bank%20of%20canada/royal-bank-of-canada.jpg",
+         "company_name": "Royal Bank of Canada",
+         "job_link": "https://www.datawerq.com/jobs/royal-bank-of-canada/",
+         "job_location": "Toronto",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-02-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/trend%20micro/trend-micro.jpg",
+         "company_name": "Trend Micro",
+         "job_link": "https://www.datawerq.com/jobs/trend-micro/",
+         "job_location": "Taipei",
+         "job_position": "Machine Learning Expert",
+         "posted_date": "2017-03-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Menlo Park",
+         "job_position": "Infrastructure Data Scientist & Strategy Analyst",
+         "posted_date": "2017-03-03"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Associate, Global Payment Analytics",
+         "posted_date": "2017-02-16"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/institute%20for%20defense%20analyses/institute-for-defense-analyses.png",
+         "company_name": "Institute for Defense Analyses",
+         "job_link": "https://www.datawerq.com/jobs/institute-for-defense-analyses/",
+         "job_location": "Alexandria",
+         "job_position": "Research Analyst - Data Scientist",
+         "posted_date": "2017-02-07"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Stride Search",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=7c81014e53130b4e&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Sunnyvale, CA",
+         "job_position": "Director of Analytics / Data Mining",
+         "posted_date": "2017-04-04"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "On Demand Agility Solutions, Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=51f3abbefdfb713a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "New York, NY 10010",
+         "job_position": "Data Mining Analyst",
+         "posted_date": "2017-04-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Penn State University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4010ab0e6c42ea3e&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "University Park, PA",
+         "job_position": "Postdoctoral Scholar in Data Mining for Environmental Geosciences",
+         "posted_date": "2017-01-10"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "ExecuSearch, Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=b4e8e9dd2cf4abc7&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "St. Louis, MO 63141",
+         "job_position": "Senior Financial Risk Analyst-Data Mining",
+         "posted_date": "2017-03-13"
+      }
+   ],
+   "17": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17797/company_logo.png",
+         "company_name": "trivago",
+         "job_link": "https://www.kaggle.com/jobs/17797/trivago-software-engineer-data-scientist-java-backend-services-d-sseldorf",
+         "job_location": "Düsseldorf, Germany",
+         "job_position": "Software Engineer / Data Scientist - Java Backend Se...",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/chubb.jpg",
+         "company_name": "Chubb",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-28-chubb-customer-experience-marketing-analytics-manager.html",
+         "job_location": "Whitehouse Station, NJ / Philadelphia, PA / New York City, NY",
+         "job_position": "Customer Experience & Marketing Analytics Manager",
+         "posted_date": "2017-03-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/rakuten%2C%20inc./rakuten-inc.jpg",
+         "company_name": "Rakuten, Inc.",
+         "job_link": "https://www.datawerq.com/jobs/rakuten-inc/",
+         "job_location": "Canada",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-02-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Menlo Park",
+         "job_position": "Data Engineer",
+         "posted_date": "2017-03-25"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/florida%20polytechnic%20university/florida-polytechnic-university.jpg",
+         "company_name": "Florida Polytechnic University",
+         "job_link": "https://www.datawerq.com/jobs/florida-polytechnic-university/",
+         "job_location": "Lakeland",
+         "job_position": "Assistant Professor/Associate Professor of Data Science/Data Analytics/Decision Science/Cloud Computing",
+         "posted_date": "2017-03-03"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/systematrix%20solutions/systematrix-solutions.png",
+         "company_name": "Systematrix Solutions",
+         "job_link": "https://www.datawerq.com/jobs/systematrix-solutions/",
+         "job_location": "Atlanta",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-02-16"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/nyu%20langone%20comprehensive%20program%20on%20obesity/nyu-langone-comprehensive-program-on-obesity.jpg",
+         "company_name": "NYU Langone Comprehensive Program on Obesity",
+         "job_link": "https://www.datawerq.com/jobs/nyu-langone-comprehensive-program-on-obesity/",
+         "job_location": "New York",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-02-07"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Grand Canyon University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=8c2717e99aebb58a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Phoenix, AZ 85017",
+         "job_position": "Adjunct – Traditional Campus – College of Science, Engineering and Technology – Search Engines and Data Mining Lecture & Lab",
+         "posted_date": "2017-03-07"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Yelp",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=6812c3513a759fcd&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "San Francisco, CA 94105",
+         "job_position": "Software Engineer - Data-Mining (Ad Autobidding Team)",
+         "posted_date": "2017-03-29"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Oliver James Associates",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=d78edd3ec13050a0&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "New York, NY",
+         "job_position": "Data Mining Analyst - Senior",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "The Rawlings Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=8644b199669a7ebc&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC9ixZlHjWe8bQtAtJNNedqS&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ph550so92q",
+         "job_location": "Lagrange, KY 40031",
+         "job_position": "Data Mining Production Manager",
+         "posted_date": "2017-05-04"
+      }
+   ],
+   "18": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17796/company_logo.PNG",
+         "company_name": "John Hancock",
+         "job_link": "https://www.kaggle.com/jobs/17796/john-hancock-director-data-science-1704166-boston-usa",
+         "job_location": "Boston, USA",
+         "job_position": "Director, Data Science - 1704166",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/live-app.jpg",
+         "company_name": "Live.xyz",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-27-live-xyz-senior-data-scientist.html",
+         "job_location": "New York, NY",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-03-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/accenture/accenture.png",
+         "company_name": "Accenture",
+         "job_link": "https://www.datawerq.com/jobs/accenture/",
+         "job_location": "Dublin",
+         "job_position": "Digital Optimisation Analytics Consultant",
+         "posted_date": "2017-02-08"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Menlo Park",
+         "job_position": "Manager, Decision Science",
+         "posted_date": "2017-03-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/zacks%20investment%20research/zacks-investment-research.jpg",
+         "company_name": "Zacks Investment Research",
+         "job_link": "https://www.datawerq.com/jobs/zacks-investment-research/",
+         "job_location": "Chicago",
+         "job_position": "Data Scientist - Stock Market Applications",
+         "posted_date": "2017-03-03"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/q-state%20biosciences/q-state-biosciences.png",
+         "company_name": "Q-State Biosciences",
+         "job_link": "https://www.datawerq.com/jobs/q-state-biosciences/",
+         "job_location": "Cambridge",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-02-16"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/foursquare/foursquare.png",
+         "company_name": "Foursquare",
+         "job_link": "https://www.datawerq.com/jobs/foursquare/",
+         "job_location": "New York",
+         "job_position": "Senior Software Engineer (Feature Engineer / API) (Foursquare Labs, Inc.; New York, NY)",
+         "posted_date": "2017-02-07"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "NCS Technologies",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=7d2e41db29cb31cd&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Pennington, NJ 08534",
+         "job_position": "SAS developer/ Data mining",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Quality Health Strategies",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=2733f6933e2202cf&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Baltimore, MD",
+         "job_position": "Data Scientist - NLP/Text Mining",
+         "posted_date": "2017-03-19"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Veterans Sourcing Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=0750f67c9a7cab00&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Pennington, NJ",
+         "job_position": "Data Mining Lead (SAS/R Development)",
+         "posted_date": "2017-03-08"
+      }
+   ],
+   "19": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17795/company_logo.png",
+         "company_name": "NStack",
+         "job_link": "https://www.kaggle.com/jobs/17795/nstack-data-scientist-data-science-architect-london-london",
+         "job_location": "London",
+         "job_position": "Data Scientist / Data Science Architect - London",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "/jimg/turner.jpg",
+         "company_name": "Turner",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-27-turner-operations-research-analyst-data-scientist.html",
+         "job_location": "Atlanta, GA",
+         "job_position": "Sr. Operations Research Analyst / Data Scientist",
+         "posted_date": "2017-03-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Senior Data Scientist - User Interface Experimentation",
+         "posted_date": "2017-02-07"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/mediengruppe%20rtl%20deutschland%20gmbh/mediengruppe-rtl-deutschland-gmbh.jpg",
+         "company_name": "Mediengruppe RTL Deutschland GmbH",
+         "job_link": "https://www.datawerq.com/jobs/mediengruppe-rtl-deutschland-gmbh/",
+         "job_location": "Cologne",
+         "job_position": "Data Engineer (m/w)",
+         "posted_date": "2017-03-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/freeletics%20gmbh/freeletics-gmbh.jpg",
+         "company_name": "Freeletics GmbH",
+         "job_link": "https://www.datawerq.com/jobs/freeletics-gmbh/",
+         "job_location": "Munich",
+         "job_position": "Data Scientist (m/f)",
+         "posted_date": "2017-03-03"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/gocardless/gocardless.png",
+         "company_name": "GoCardless",
+         "job_link": "https://www.datawerq.com/jobs/gocardless/",
+         "job_location": "London",
+         "job_position": "Head of Data",
+         "posted_date": "2017-02-15"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/accenture/accenture.png",
+         "company_name": "Accenture",
+         "job_link": "https://www.datawerq.com/jobs/accenture/",
+         "job_location": "Dublin",
+         "job_position": "Lead Data Scientist",
+         "posted_date": "2017-02-06"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Yelp",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=906184726d4caf75&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "San Francisco, CA 94105",
+         "job_position": "Engineering Manager - Data Mining - Ad Creative",
+         "posted_date": "2017-04-29"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "SearchTech Consulting, Inc",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=872321f39202fefa&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Mountain View, CA",
+         "job_position": "Machine Learning and Data Mining",
+         "posted_date": "2017-03-15"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Metasis Information System",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=5c5ea7afd7cc3a45&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Philadelphia, PA",
+         "job_position": "Data Mining",
+         "posted_date": "2017-04-19"
+      }
+   ],
+   "20": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17794/company_logo.jpg",
+         "company_name": "PowerInbox",
+         "job_link": "https://www.kaggle.com/jobs/17794/powerinbox-data-scientist-remote",
+         "job_location": "Remote",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-05-04"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.kdnuggets.com/jimg/turner.jpg",
+         "company_name": "Turner",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-24-turner-advisor-analytics-architect.html",
+         "job_location": "Atlanta, GA",
+         "job_position": "Advisor Analytics Architect",
+         "posted_date": "2017-03-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Dublin",
+         "job_position": "Business Integrity Manager - Data Operations",
+         "posted_date": "2017-04-29"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/sureid/sureid.png",
+         "company_name": "SureID",
+         "job_link": "https://www.datawerq.com/jobs/sureid/",
+         "job_location": "Canada",
+         "job_position": "Vice President of Data Science/Machine Learning",
+         "posted_date": "2017-03-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Canada",
+         "job_position": "BI Engineer Lead",
+         "posted_date": "2017-03-02"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/outfit7%20limited/outfit7-limited.jpg",
+         "company_name": "Outfit7 Limited",
+         "job_link": "https://www.datawerq.com/jobs/outfit7-limited/",
+         "job_location": "Ljubljana",
+         "job_position": "Data Scientist (Product)",
+         "posted_date": "2017-02-15"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/abl%20schools/abl-schools.jpg",
+         "company_name": "Abl Schools",
+         "job_link": "https://www.datawerq.com/jobs/abl-schools/",
+         "job_location": "San Francisco",
+         "job_position": "Sr. Data Scientist",
+         "posted_date": "2017-02-06"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4019558e35911e25&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Research Intern: Pattern and Anomaly Detection in Multi-Time Series",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Stride Search",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=7c81014e53130b4e&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Sunnyvale, CA",
+         "job_position": "Director of Analytics / Data Mining",
+         "posted_date": "2017-04-04"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Veterans Sourcing Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=22b178fe3a1d4202&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Pennington, NJ 08534",
+         "job_position": "Data Mining lead (SAS/R Data Development)",
+         "posted_date": "2017-03-08"
+      }
+   ],
+   "21": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17793/company_logo.png",
+         "company_name": "Clarity Insights",
+         "job_link": "https://www.kaggle.com/jobs/17793/clarity-insights-senior-data-scientist-san-francisco-ca",
+         "job_location": "San Francisco, CA",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-05-03"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.kdnuggets.com/jimg/apple-computer.jpg",
+         "company_name": "Apple",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-24-apple-software-engineer-local-search.html",
+         "job_location": "Cupertino, CA",
+         "job_position": "Software Engineer – Local Search",
+         "posted_date": "2017-03-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "London",
+         "job_position": "Measurement Lead, Turkey",
+         "posted_date": "2017-04-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/poki/poki.png",
+         "company_name": "Poki",
+         "job_link": "https://www.datawerq.com/jobs/poki/",
+         "job_location": "Amsterdam",
+         "job_position": "Lead Data Scientist",
+         "posted_date": "2017-03-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Angeles",
+         "job_position": "Analyst, Content Finance",
+         "posted_date": "2017-03-02"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/sap/sap.jpg",
+         "company_name": "SAP",
+         "job_link": "https://www.datawerq.com/jobs/sap/",
+         "job_location": "Potsdam",
+         "job_position": "Senior Manager for Deep Learning Center of Excellence Job",
+         "posted_date": "2017-02-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/accenture/accenture.png",
+         "company_name": "Accenture",
+         "job_link": "https://www.datawerq.com/jobs/accenture/",
+         "job_location": "Dublin",
+         "job_position": "CIO - Big Data Developer",
+         "posted_date": "2017-02-06"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Smith & Keller",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4ba687486361ead1&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "Arlington, VA",
+         "job_position": "Python Developer – Data Mining & Web Crawling",
+         "posted_date": "2017-03-20"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "NCS Technologies",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=7d2e41db29cb31cd&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Pennington, NJ 08534",
+         "job_position": "SAS developer/ Data mining",
+         "posted_date": "2017-03-30"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Cyber Defense Solutions",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=a153db2394c6a914&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Reston, VA",
+         "job_position": "Principal Data Mining and Analytics Engineer (PDMAE) – Test Lead",
+         "posted_date": "2017-02-14"
+      }
+   ],
+   "22": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17791/company_logo.png",
+         "company_name": "Weebly",
+         "job_link": "https://www.kaggle.com/jobs/17791/weebly-senior-software-engineer-machine-learning-san-francisco",
+         "job_location": "San Francisco",
+         "job_position": "Senior Software Engineer, Machine Learning",
+         "posted_date": "2017-04-28"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://peachih.com/wp/wp-content/uploads/2015/04/Peach-Logo-IH2.gif",
+         "company_name": "PeachIH",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-24-peachih-data-scientist-machine-learning-engineer.html",
+         "job_location": "Singapore",
+         "job_position": "Data Scientist, Machine Learning Engineer",
+         "posted_date": "2017-03-24"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/weebly/weebly.png",
+         "company_name": "Weebly",
+         "job_link": "https://www.datawerq.com/jobs/weebly/",
+         "job_location": "San Francisco",
+         "job_position": "Senior Software Engineer, Machine Learning",
+         "posted_date": "2017-04-27"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "New York",
+         "job_position": "Neuroscientist, Center for Marketing Science Innovation",
+         "posted_date": "2017-03-22"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Tel Aviv-Yafo",
+         "job_position": "Core Data Science, PhD Intern/Co-op",
+         "posted_date": "2017-03-01"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/rakuten%2C%20inc./rakuten-inc.jpg",
+         "company_name": "Rakuten, Inc.",
+         "job_link": "https://www.datawerq.com/jobs/rakuten-inc/",
+         "job_location": "Canada",
+         "job_position": "Data Science Engineer",
+         "posted_date": "2017-02-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/spotify.pngw730h219",
+         "company_name": "Spotify",
+         "job_link": "https://www.datawerq.com/jobs/spotify/",
+         "job_location": "San Francisco",
+         "job_position": "Data Engineer",
+         "posted_date": "2017-02-04"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "ExecuSearch, Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=b4e8e9dd2cf4abc7&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaDeFiDacKST-TXQ4HdQMTvbU0v_2zg27nAg9E2_inPKrG8T5VQEu26Vc5Z_lggf3m&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfb8c2v253oocht",
+         "job_location": "St. Louis, MO 63141",
+         "job_position": "Senior Financial Risk Analyst-Data Mining",
+         "posted_date": "2017-03-13"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Bosch Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4019558e35911e25&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Palo Alto, CA",
+         "job_position": "Data Mining Research Intern: Pattern and Anomaly Detection in Multi-Time Series",
+         "posted_date": "2017-01-25"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "On Demand Agility Solutions, Inc.",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=51f3abbefdfb713a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "New York, NY 10010",
+         "job_position": "Data Mining Analyst",
+         "posted_date": "2017-04-10"
+      }
+   ],
+   "23": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17789/company_logo.jpg",
+         "company_name": "Qeexo",
+         "job_link": "https://www.kaggle.com/jobs/17789/qeexo-manager-machine-learning-pittsburgh-pa",
+         "job_location": "Pittsburgh, PA",
+         "job_position": "Manager, Machine Learning",
+         "posted_date": "2017-04-26"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "https://www.tue.nl/typo3conf/ext/www_tue_nl/Resources/Public/Images/opengraph-logo.jpg",
+         "company_name": "Eindhoven University of Technology",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-22-eindhoven-university-technology-full-professor-database-technology.html",
+         "job_location": "Eindhoven, The Netherlands",
+         "job_position": "Full Professor Database Technology",
+         "posted_date": "2017-03-22"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/datacamp/datacamp.png",
+         "company_name": "DataCamp",
+         "job_link": "https://www.datawerq.com/jobs/datacamp/",
+         "job_location": "New York",
+         "job_position": "Data Science Curriculum Lead",
+         "posted_date": "2017-04-26"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Menlo Park",
+         "job_position": "Quantitative Researcher, R&D",
+         "posted_date": "2017-03-18"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/lyft/lyft.png",
+         "company_name": "Lyft",
+         "job_link": "https://www.datawerq.com/jobs/lyft/",
+         "job_location": "Philadelphia",
+         "job_position": "Analytics Lead - Philadelphia",
+         "posted_date": "2017-03-01"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/stevens%20capital%20management%20lp/stevens-capital-management-lp.jpg",
+         "company_name": "Stevens Capital Management LP",
+         "job_link": "https://www.datawerq.com/jobs/stevens-capital-management-lp/",
+         "job_location": "Canada",
+         "job_position": "Quantitative Research Analyst",
+         "posted_date": "2017-02-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/springboard.png",
+         "company_name": "Springboard",
+         "job_link": "https://www.datawerq.com/jobs/springboard/",
+         "job_location": "Remote",
+         "job_position": "Data Science Course Mentor (Part-Time/Flexible/Remote)",
+         "posted_date": "2017-02-03"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Grand Canyon University",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=8c2717e99aebb58a&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Phoenix, AZ 85017",
+         "job_position": "Adjunct – Traditional Campus – College of Science, Engineering and Technology – Search Engines and Data Mining Lecture & Lab",
+         "posted_date": "2017-03-07"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Yelp",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=6812c3513a759fcd&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "San Francisco, CA 94105",
+         "job_position": "Software Engineer - Data-Mining (Ad Autobidding Team)",
+         "posted_date": "2017-03-29"
+      }
+   ],
+   "24": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17788/company_logo.jpg",
+         "company_name": "IDEXX Laboratories Inc.",
+         "job_link": "https://www.kaggle.com/jobs/17788/idexx-laboratories-inc-data-scientist-machine-learning-westbrook-maine",
+         "job_location": "Westbrook, Maine",
+         "job_position": "Data Scientist – Machine Learning",
+         "posted_date": "2017-04-26"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://coriosgroup.com/wp-content/themes/corios/images/corios-logo.png",
+         "company_name": "Corios",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-21-corios-it-sytems-administrator.html",
+         "job_location": "Portland, OR",
+         "job_position": "IT Systems Administrator",
+         "posted_date": "2017-03-21"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/idexx%20laboratories%20inc./idexx-laboratories-inc.jpg",
+         "company_name": "IDEXX Laboratories Inc.",
+         "job_link": "https://www.datawerq.com/jobs/idexx-laboratories-inc/",
+         "job_location": "Westbrook",
+         "job_position": "Data Scientist – Machine Learning",
+         "posted_date": "2017-04-25"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/udacity/udacity.png",
+         "company_name": "Udacity",
+         "job_link": "https://www.datawerq.com/jobs/udacity/",
+         "job_location": "Mountain View",
+         "job_position": "Lead Software Engineer - Data",
+         "posted_date": "2017-03-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Data Visualization Infrastructure - Engineering Manager",
+         "posted_date": "2017-02-28"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/stevens%20capital%20management%20lp/stevens-capital-management-lp.jpg",
+         "company_name": "Stevens Capital Management LP",
+         "job_link": "https://www.datawerq.com/jobs/stevens-capital-management-lp/",
+         "job_location": "Canada",
+         "job_position": "Software Engineer",
+         "posted_date": "2017-02-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/fyber%20gmbh/fyber-gmbh.png",
+         "company_name": "Fyber GmbH",
+         "job_link": "https://www.datawerq.com/jobs/fyber-gmbh/",
+         "job_location": "Berlin",
+         "job_position": "Head of Data Science",
+         "posted_date": "2017-02-03"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "Smith & Keller",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=4ba687486361ead1&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoa3ucGsieJzsLAYWw8JSBDMVz6_L53gbB-DJXzOBoQGiuNJJTgOgfPsYRlDtugqgIQ&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfa7e9vca50rf83",
+         "job_location": "Arlington, VA",
+         "job_position": "Python Developer – Data Mining & Web Crawling",
+         "posted_date": "2017-03-20"
+      },
+      {
+         "Source": "Dataelixir",
+         "company_logo": "NL",
+         "company_name": "The Rawlings Group",
+         "job_link": "https://jobs.dataelixir.comhttp://www.indeed.com/viewjob?jk=1b4f164c5afad620&qd=6bmzt1FnS1QmPC_KbqPWtQmYjJyrhTxKOFJqvG1M2qwWRG_Laeo9VpEtINA5K6lMXr793YfuyAt7AzDU4LABTpJfmCNuY5p3ExHGVCTwbWg9WWoJpXDFoAVozYIy0OouT0jCXscH7_aH-GNFKEACinmJEfx6j6KpJIRjsm6lZsUHaUd9uEVNyWLY488O4zoaQFiK9dNK9MO2dYvrOqO9li1yBxbdgEtoO0oqGfmbeC-T778VvyrX9DiFJCQVYf54&indpubnum=7002504556778488&chnl=dataelixir&atk=1bfbk9ihoa491e4i",
+         "job_location": "Lagrange, KY 40031",
+         "job_position": "Data Mining Analyst",
+         "posted_date": "2017-05-05"
+      }
+   ],
+   "25": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17782/company_logo.png",
+         "company_name": "Elevate Services",
+         "job_link": "https://www.kaggle.com/jobs/17782/elevate-services-data-scientist-santa-clara-ca",
+         "job_location": "Santa Clara, CA",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-04-22"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "https://www.aetna.com/common/images/designs/logo.png",
+         "company_name": "Aetna",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-20-aetna-lead-data-scientist.html",
+         "job_location": "Wellesley, MA, New York City, NY, or Hartford, CT",
+         "job_position": "Lead Data Scientist",
+         "posted_date": "2017-03-20"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/qeexo.jpg",
+         "company_name": "Qeexo",
+         "job_link": "https://www.datawerq.com/jobs/qeexo/",
+         "job_location": "Pittsburgh",
+         "job_position": "Manager, Machine Learning",
+         "posted_date": "2017-04-25"
+      }
+   ],
+   "26": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17781/company_logo.jpg",
+         "company_name": "Blue Cross Blue Shield of IL (HCSC)",
+         "job_link": "https://www.kaggle.com/jobs/17781/blue-cross-blue-shield-of-il-hcsc-analytics-strategy-principal-chicago",
+         "job_location": "Chicago, IL",
+         "job_position": "Analytics Strategy Principal",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://kdnuggets.com/jimg/accenture.png",
+         "company_name": "Accenture",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-16-accenture-artificial-intelligence-experienced-researcher.html",
+         "job_location": "San Francisco, CA",
+         "job_position": "Artificial Intelligence Experienced Researcher",
+         "posted_date": "2017-03-16"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/austrian%20airlines%20ag/austrian-airlines-ag.png",
+         "company_name": "Austrian Airlines AG",
+         "job_link": "https://www.datawerq.com/jobs/austrian-airlines-ag/",
+         "job_location": "Vienna",
+         "job_position": "Manager Customer Analytics with Focus on Data Engineering (m/f)",
+         "posted_date": "2017-04-21"
+      }
+   ],
+   "27": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17780/company_logo.jpg",
+         "company_name": "Blue Cross Blue Shield of IL",
+         "job_link": "https://www.kaggle.com/jobs/17780/blue-cross-blue-shield-of-il-senior-data-science-consultant-chicago-il",
+         "job_location": "Chicago, IL",
+         "job_position": "Senior Data Science Consultant",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAKkAAAAJDM2YTA2Mjk5LTFmNjktNDIyZi1hYjRmLTU4ZWUyMTRkM2IwNA.png",
+         "company_name": "LeapYear",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-15-leapyear-lead-data-scientist.html",
+         "job_location": "Berkeley, CA",
+         "job_position": "Lead Data Scientist",
+         "posted_date": "2017-03-15"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/getaround/getaround.png",
+         "company_name": "Getaround",
+         "job_link": "https://www.datawerq.com/jobs/getaround/",
+         "job_location": "San Francisco",
+         "job_position": "Business Analyst",
+         "posted_date": "2017-04-21"
+      }
+   ],
+   "28": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17779/company_logo.png",
+         "company_name": "Uniberg GmbH",
+         "job_link": "https://www.kaggle.com/jobs/17779/uniberg-gmbh-data-stream-processing-engineer-frankfurt-a-m-germany",
+         "job_location": "Frankfurt a. M.; Germany",
+         "job_position": "Data Stream Processing Engineer",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://www.iris-eng.com/wp-content/uploads/2015/09/lgoo.png",
+         "company_name": "IRIS Advanced Engineering",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-09-iris-eng-tecniospring-data-mining-fellowship-b.html",
+         "job_location": "Barcelona, Spain",
+         "job_position": "TecnioSpring Data Mining Fellowship",
+         "posted_date": "2017-03-09"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/shopify/shopify.png",
+         "company_name": "Shopify",
+         "job_link": "https://www.datawerq.com/jobs/shopify/",
+         "job_location": "Montreal",
+         "job_position": "Internal Security Engineer - Cyber Threat Detection",
+         "posted_date": "2017-04-21"
+      }
+   ],
+   "29": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17778/company_logo.jpg",
+         "company_name": "Institute for Defense Analyses",
+         "job_link": "https://www.kaggle.com/jobs/17778/institute-for-defense-analyses-senior-data-scientist-alexandria-va",
+         "job_location": "Alexandria, VA",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-04-21"
+      },
+      {
+         "Source": "Kdnuggets",
+         "company_logo": "http://deltafonts.com/wp-content/uploads/Charles-Schwab-logo.png",
+         "company_name": "Schwab",
+         "job_link": "http://www.kdnuggets.com/jobs/17/03-06-schwab-senior-data-scientist.html",
+         "job_location": "Austin, TX",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-03-06"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/deutsche%20lufthansa%20ag/deutsche-lufthansa-ag.png",
+         "company_name": "Deutsche Lufthansa AG",
+         "job_link": "https://www.datawerq.com/jobs/deutsche-lufthansa-ag/",
+         "job_location": "Frankfurt",
+         "job_position": "Data Scientist (m/f) – Data Science and Engineering",
+         "posted_date": "2017-04-21"
+      }
+   ],
+   "30": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17776/company_logo.png",
+         "company_name": "HomeAdvisor",
+         "job_link": "https://www.kaggle.com/jobs/17776/homeadvisor-data-systems-engineer-golden-co",
+         "job_location": "Golden, CO",
+         "job_position": "Data Systems Engineer",
+         "posted_date": "2017-04-20"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/deutsche%20lufthansa%20ag/deutsche-lufthansa-ag.png",
+         "company_name": "Deutsche Lufthansa AG",
+         "job_link": "https://www.datawerq.com/jobs/deutsche-lufthansa-ag/",
+         "job_location": "Frankfurt",
+         "job_position": "Data Scientist (m/f) - Data Visualization",
+         "posted_date": "2017-04-21"
+      }
+   ],
+   "31": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17775/company_logo.jpg",
+         "company_name": "Geohpy",
+         "job_link": "https://www.kaggle.com/jobs/17775/geohpy-data-engineer-delft",
+         "job_location": "Delft",
+         "job_position": "Data Engineer",
+         "posted_date": "2017-04-20"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/swift%20capital/swift-capital.png",
+         "company_name": "Swift Capital",
+         "job_link": "https://www.datawerq.com/jobs/swift-capital/",
+         "job_location": "Wilmington",
+         "job_position": "Credit Risk Strategies Analyst",
+         "posted_date": "2017-04-21"
+      }
+   ],
+   "32": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17774/company_logo.jpg",
+         "company_name": "RET",
+         "job_link": "https://www.kaggle.com/jobs/17774/ret-data-analist-opbrengsten-rotterdam",
+         "job_location": "Rotterdam",
+         "job_position": "Data Analist Opbrengsten",
+         "posted_date": "2017-04-19"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/blue%20cross%20blue%20shield%20of%20il/blue-cross-blue-shield-of-il.jpg",
+         "company_name": "Blue Cross Blue Shield of IL",
+         "job_link": "https://www.datawerq.com/jobs/blue-cross-blue-shield-of-il/",
+         "job_location": "Chicago",
+         "job_position": "Senior Data Science Consultant",
+         "posted_date": "2017-04-20"
+      }
+   ],
+   "33": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17773/company_logo.png",
+         "company_name": "Keurig Green Mountain",
+         "job_link": "https://www.kaggle.com/jobs/17773/keurig-green-mountain-senior-market-intelligence-analyst-burlington-ma",
+         "job_location": "Burlington, MA",
+         "job_position": "Senior Market Intelligence Analyst",
+         "posted_date": "2017-04-18"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/institute%20for%20defense%20analyses/institute-for-defense-analyses.png",
+         "company_name": "Institute for Defense Analyses",
+         "job_link": "https://www.datawerq.com/jobs/institute-for-defense-analyses/",
+         "job_location": "Alexandria",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-04-20"
+      }
+   ],
+   "34": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17772/company_logo.png",
+         "company_name": "Clear Capital",
+         "job_link": "https://www.kaggle.com/jobs/17772/clear-capital-sr-data-engineer-reno-nv",
+         "job_location": "Reno, NV",
+         "job_position": "Sr. Data Engineer",
+         "posted_date": "2017-04-15"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/blue%20cross%20blue%20shield%20of%20il%20(hcsc)/blue-cross-blue-shield-of-il-hcsc.jpg",
+         "company_name": "Blue Cross Blue Shield of IL (HCSC)",
+         "job_link": "https://www.datawerq.com/jobs/blue-cross-blue-shield-of-il-hcsc/",
+         "job_location": "Chicago",
+         "job_position": "Analytics Strategy Principal",
+         "posted_date": "2017-04-20"
+      }
+   ],
+   "35": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17771/company_logo.jpg",
+         "company_name": "States Title",
+         "job_link": "https://www.kaggle.com/jobs/17771/states-title-vp-data-science-chief-analytics-officer-san-francisco",
+         "job_location": "San Francisco",
+         "job_position": "VP Data Science/Chief Analytics Officer",
+         "posted_date": "2017-04-15"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/uniberg%20gmbh/uniberg-gmbh.png",
+         "company_name": "Uniberg GmbH",
+         "job_link": "https://www.datawerq.com/jobs/uniberg-gmbh/",
+         "job_location": "Frankfurt",
+         "job_position": "Data Stream Processing Engineer",
+         "posted_date": "2017-04-20"
+      }
+   ],
+   "36": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17770/company_logo.png",
+         "company_name": "Wageningen University and Research",
+         "job_link": "https://www.kaggle.com/jobs/17770/wageningen-university-and-research-projectleider-food-informatics-wageningen",
+         "job_location": "Wageningen, Netherlands",
+         "job_position": "Projectleider Food Informatics",
+         "posted_date": "2017-04-15"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/clear%20capital/clear-capital.JPG",
+         "company_name": "Clear Capital",
+         "job_link": "https://www.datawerq.com/jobs/clear-capital/",
+         "job_location": "Reno",
+         "job_position": "Sr. Data Engineer",
+         "posted_date": "2017-04-14"
+      }
+   ],
+   "37": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17769/company_logo.png",
+         "company_name": "Regions Financial Corporation",
+         "job_link": "https://www.kaggle.com/jobs/17769/regions-financial-corporation-predictive-analyst-birmingham-al",
+         "job_location": "Birmingham, AL",
+         "job_position": "Predictive Analyst",
+         "posted_date": "2017-04-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/thinkful%20inc./thinkful-inc.png",
+         "company_name": "Thinkful Inc.",
+         "job_link": "https://www.datawerq.com/jobs/thinkful-inc/",
+         "job_location": "Canada",
+         "job_position": "Data Science Bootcamp Mentor",
+         "posted_date": "2017-04-12"
+      }
+   ],
+   "38": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17768/company_logo.png",
+         "company_name": "Regions Financial Corporation",
+         "job_link": "https://www.kaggle.com/jobs/17768/regions-financial-corporation-decision-scientist-birmingham-al",
+         "job_location": "Birmingham, AL",
+         "job_position": "Decision Scientist",
+         "posted_date": "2017-04-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Menlo Park",
+         "job_position": "Decision Scientist",
+         "posted_date": "2017-04-11"
+      }
+   ],
+   "39": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17767/company_logo.JPG",
+         "company_name": "Lynx Analytics",
+         "job_link": "https://www.kaggle.com/jobs/17767/lynx-analytics-senior-data-scientist-singapore-hungary",
+         "job_location": "Singapore, Hungary",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-04-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/netflix/netflix.png",
+         "company_name": "Netflix",
+         "job_link": "https://www.datawerq.com/jobs/netflix/",
+         "job_location": "Los Gatos",
+         "job_position": "Senior Data Engineer - Content Delivery Analytics",
+         "posted_date": "2017-04-11"
+      }
+   ],
+   "40": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17766/company_logo.jpg",
+         "company_name": "Bombardier Transportation",
+         "job_link": "https://www.kaggle.com/jobs/17766/bombardier-transportation-senior-specialist-data-scientist-m-w-berlin-germany",
+         "job_location": "Berlin (Germany)",
+         "job_position": "Senior Specialist - Data Scientist (m/w)",
+         "posted_date": "2017-04-14"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/grubhub/grubhub.jpg",
+         "company_name": "Grubhub",
+         "job_link": "https://www.datawerq.com/jobs/grubhub/",
+         "job_location": "Las Vegas",
+         "job_position": "Lead Data Scientist",
+         "posted_date": "2017-04-10"
+      }
+   ],
+   "41": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17765/company_logo.png",
+         "company_name": "Springboard",
+         "job_link": "https://www.kaggle.com/jobs/17765/springboard-data-science-course-mentor-part-time-flexible-remote-remote",
+         "job_location": "Remote",
+         "job_position": "Data Science Course Mentor (Part-Time/Flexible/Remote)",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/direct%20line%20group/direct-line-group.jpg",
+         "company_name": "Direct Line Group",
+         "job_link": "https://www.datawerq.com/jobs/direct-line-group/",
+         "job_location": "London",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-03-31"
+      }
+   ],
+   "42": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17764/company_logo.jpg",
+         "company_name": "Agility",
+         "job_link": "https://www.kaggle.com/jobs/17764/agility-data-scientist-kuwait-or-dubai",
+         "job_location": "Kuwait or Dubai",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/facebook.png",
+         "company_name": "Facebook",
+         "job_link": "https://www.datawerq.com/jobs/facebook/",
+         "job_location": "Seoul",
+         "job_position": "Data Insights Strategist, Mobile Partnerships",
+         "posted_date": "2017-03-31"
+      }
+   ],
+   "43": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17763/company_logo.png",
+         "company_name": "Thinkful Inc.",
+         "job_link": "https://www.kaggle.com/jobs/17763/thinkful-inc-data-science-bootcamp-mentor-brooklyn-ny",
+         "job_location": "Brooklyn, NY",
+         "job_position": "Data Science Bootcamp Mentor",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/conduent/conduent.JPG",
+         "company_name": "Conduent",
+         "job_link": "https://www.datawerq.com/jobs/conduent/",
+         "job_location": "Redmond",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-03-31"
+      }
+   ],
+   "44": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17762/company_logo.PNG",
+         "company_name": "Manulife/John Hancock",
+         "job_link": "https://www.kaggle.com/jobs/17762/manulife-john-hancock-sr-data-analyst-1701142-boston-ma",
+         "job_location": "Boston, MA",
+         "job_position": "Sr. Data Analyst - 1701142",
+         "posted_date": "2017-04-13"
+      },
+      {
+         "Source": "Datawerq",
+         "company_logo": "https://data-science-jobs.s3.amazonaws.com/media/logos/sbm%20offshore/sbm-offshore.jpg",
+         "company_name": "SBM Offshore",
+         "job_link": "https://www.datawerq.com/jobs/sbm-offshore/",
+         "job_location": "Canada",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-03-31"
+      }
+   ],
+   "45": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17761/company_logo.PNG",
+         "company_name": "Manulife",
+         "job_link": "https://www.kaggle.com/jobs/17761/manulife-sr-data-analytics-consultant-1701792-toronto-ontario",
+         "job_location": "Toronto, Ontario",
+         "job_position": "Sr. Data Analytics Consultant - 1701792",
+         "posted_date": "2017-04-13"
+      }
+   ],
+   "46": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17760/company_logo.png",
+         "company_name": "Tobii AB",
+         "job_link": "https://www.kaggle.com/jobs/17760/tobii-ab-experienced-machine-learning-engineer-stockholm",
+         "job_location": "Stockholm",
+         "job_position": "Experienced Machine Learning Engineer",
+         "posted_date": "2017-04-13"
+      }
+   ],
+   "47": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17759/company_logo.png",
+         "company_name": "CVS Health",
+         "job_link": "https://www.kaggle.com/jobs/17759/cvs-health-pharmacy-analytics-senior-manager-woonsocket-ri",
+         "job_location": "Woonsocket, RI",
+         "job_position": "Pharmacy Analytics, Senior Manager",
+         "posted_date": "2017-04-12"
+      }
+   ],
+   "48": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17758/company_logo.png",
+         "company_name": "CVS Health",
+         "job_link": "https://www.kaggle.com/jobs/17758/cvs-health-analytics-senior-manager-northbrook-il",
+         "job_location": "Northbrook, IL",
+         "job_position": "Analytics, Senior Manager",
+         "posted_date": "2017-04-12"
+      }
+   ],
+   "49": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17757/company_logo.png",
+         "company_name": "Breather",
+         "job_link": "https://www.kaggle.com/jobs/17757/breather-machine-learning-engineer-new-york",
+         "job_location": "New York",
+         "job_position": "Machine Learning Engineer",
+         "posted_date": "2017-04-12"
+      }
+   ],
+   "50": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17755/company_logo.jpg",
+         "company_name": "WCN",
+         "job_link": "https://www.kaggle.com/jobs/17755/wcn-data-scientist-lead-wimbledon-park-greater-london",
+         "job_location": "Wimbledon Park, Greater London",
+         "job_position": "Data Scientist - Lead",
+         "posted_date": "2017-04-12"
+      }
+   ],
+   "51": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17754/company_logo.png",
+         "company_name": "Apsalar",
+         "job_link": "https://www.kaggle.com/jobs/17754/apsalar-senior-data-scientist-san-francisco-soma",
+         "job_location": "San Francisco (SOMA)",
+         "job_position": "Senior Data Scientist",
+         "posted_date": "2017-04-11"
+      }
+   ],
+   "52": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17752/company_logo.jpg",
+         "company_name": "Textkernel B.V.",
+         "job_link": "https://www.kaggle.com/jobs/17752/textkernel-b-v-data-scientist-amsterdam-the-netherlands",
+         "job_location": "Amsterdam, The Netherlands",
+         "job_position": "Data Scientist",
+         "posted_date": "2017-04-11"
+      }
+   ],
+   "53": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17751/company_logo.png",
+         "company_name": "Novomatic",
+         "job_link": "https://www.kaggle.com/jobs/17751/novomatic-senior-data-scientist-m-f-gumpoldskirchen-austria",
+         "job_location": "Gumpoldskirchen (Austria)",
+         "job_position": "Senior Data Scientist (m/f)",
+         "posted_date": "2017-04-11"
+      }
+   ],
+   "54": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17750/company_logo.png",
+         "company_name": "Novomatic",
+         "job_link": "https://www.kaggle.com/jobs/17750/novomatic-junior-data-scientist-m-f-gumpoldskirchen-austria",
+         "job_location": "Gumpoldskirchen (Austria)",
+         "job_position": "Junior Data Scientist (m/f)",
+         "posted_date": "2017-04-11"
+      }
+   ],
+   "55": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17749/company_logo.jpg",
+         "company_name": "Galvanize",
+         "job_link": "https://www.kaggle.com/jobs/17749/galvanize-lead-instructor-principal-data-scientist-phoenix-az",
+         "job_location": "Phoenix, AZ",
+         "job_position": "Lead Instructor, Principal Data Scientist",
+         "posted_date": "2017-04-08"
+      }
+   ],
+   "56": [
+      {
+         "Source": "Kaggle",
+         "company_logo": "https://kaggle2.blob.core.windows.net/jobs-board/posts/17747/company_logo.jpg",
+         "company_name": "Unitymedia GmbH",
+         "job_link": "https://www.kaggle.com/jobs/17747/unitymedia-gmbh-business-partner-m-w-business-intelligence-k-ln",
+         "job_location": "Köln",
+         "job_position": "Business Partner (m/w) Business Intelligence",
+         "posted_date": "2017-04-08"
+      }
+   ]
+}
