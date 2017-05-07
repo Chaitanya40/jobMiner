@@ -7,7 +7,7 @@
 
   StateConfig.$inject=['$stateProvider','$urlRouterProvider'];
   function StateConfig($stateProvider, $urlRouterProvider){
-    console.log("Inside stateConfig..");
+    // console.log("Inside stateConfig..");
     $urlRouterProvider.otherwise('/');
     $stateProvider
     .state('state1', {
@@ -20,7 +20,7 @@
             method:"GET",
             url:'json_files/job_details.json'
           });
-          console.log("Inside resolve...")
+          // console.log("Inside resolve...")
 
           return jobPromise;
         }]
@@ -30,22 +30,22 @@
 
   JobViewController.$inject = ['jobPromise']
   function JobViewController(jobPromise){
-    console.log("Inside controller..")
+    // console.log("Inside controller..")
     var ctr1 = this;
-    console.log("JobPromise:" + jobPromise);
+    // console.log("JobPromise:" + jobPromise);
       var jobDetailJson = jobPromise.data;
       var jsonKeys = Object.keys(jobDetailJson);
       var jsonModObj = [];
 
       for(var key in jsonKeys){
         var tempArr = jobDetailJson[key];
-        console.log(tempArr);
+        // console.log(tempArr);
 
         for(var ind=0;ind < tempArr.length; ind++){
           jsonModObj.push(tempArr[ind]);
         }
       }
-      console.log(jsonModObj);
+      // console.log(jsonModObj);
       ctr1.jobDetailJson = jsonModObj;
 
   }
