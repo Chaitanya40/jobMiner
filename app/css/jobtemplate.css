@@ -3,7 +3,7 @@
 }
  */
 .company-logo img{
-  max-width:50%;
+  max-width:100%;
   height:auto;
 }
 .job-main:hover{
@@ -92,4 +92,8 @@ a.prevent-link{
   margin:auto;
   padding:0.33em;
   text-align:center;
+}
+
+a:hover .heart-icon{
+  color: #FF1493;
 }
