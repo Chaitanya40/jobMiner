@@ -3,10 +3,10 @@
     <div class="col-md-10 col-lg-10 col-xl-10 col-sm-12">
       <div class="d-flex flex-column">
         <div data-class= "job type featured shortlisted recent" class="job-class p-2">
-          <h3> Featured Jobs </h3>
+          <h3> {{$ctr1.templateTitle}} </h3>
         </div>
 
-      <div ng-repeat ="job in ctr1.jobDetailJson" class="job-main d-flex flex-wrap bd-highlight mx-auto pt-2 pb-2 pr-3" >
+      <div ng-repeat ="job in $ctrl.jobDetails" class="job-main d-flex flex-wrap bd-highlight mx-auto pt-2 pb-2 pr-3" >
         <div class="hidden-sm-down col-md-1 company-logo ">
           <img src="images/facebook.png" alt="Company logo" class="mx-auto">
           </div>
@@ -44,7 +44,8 @@
           <a data-toggle="tooltip" data-animation="false" data-placement="bottom" title="{{'Apply on ' + job.Source}}" target="_blank" rel="external" class="prevent-link" href="{{::job.job_link}}"><p> Apply </p></a>
         </div>
         <div class="hidden-sm-down m-auto">
-          <a data-toggle="tooltip" data-animation="false" data-placement="right" title="Shortlist this job" class="prevent-link" href="#">
+          <a data-toggle="tooltip" data-animation="false" data-placement="right" title="Shortlist this job" class="prevent-link" href="#"
+          ng-click="$ctr1.shortlistClick({$Id:job.jobId})">
           <span class="fa fa-heart heart-icon" title="Shortlist this job" aria-hidden="true"></span>
           </a>
         </div>
