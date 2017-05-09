@@ -3,7 +3,7 @@
     <div class="col-md-10 col-lg-10 col-xl-10 col-sm-12">
       <div class="d-flex flex-column">
         <div data-class= "job type featured shortlisted recent" class="job-class p-2">
-          <h3> {{$ctr1.templateTitle}} </h3>
+          <h3> {{$ctrl.templateTitle}} </h3>
         </div>
 
       <div ng-repeat ="job in $ctrl.jobDetails" class="job-main d-flex flex-wrap bd-highlight mx-auto pt-2 pb-2 pr-3" >
@@ -45,7 +45,7 @@
         </div>
         <div class="hidden-sm-down m-auto">
           <a data-toggle="tooltip" data-animation="false" data-placement="right" title="Shortlist this job" class="prevent-link" href="#"
-          ng-click="$ctr1.shortlistClick({$Id:job.jobId})">
+          ng-click="$ctrl.shortlistClick({$Id:job.id})">
           <span class="fa fa-heart heart-icon" title="Shortlist this job" aria-hidden="true"></span>
           </a>
         </div>

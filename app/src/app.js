@@ -8,21 +8,21 @@
   JobMineApp.component('jobTemplate', {
     templateUrl:'templates/job_view.template.html',
     bindings:{
-      templateTitle:'<',
+      templateTitle:'@',
       jobDetails:'<',
       shortlistClick:'&'
     },
-    controller:
+    controller: function(){}
   });
-  StateConfig.$inject=['$stateProvider'];
-  function StateConfig($stateProvider){
-    // console.log("Inside stateConfig..");
-    //$urlRouterProvider.otherwise('/');
-    $stateProvider
-    .state({
+
+  StateConfig.$inject=['$stateProvider','$urlRouterProvider'];
+  function StateConfig($stateProvider, $urlRouterProvider){
+     console.log("Inside stateConfig..");
+    $urlRouterProvider.otherwise('/');
+    $stateProvider.state({
       name:'state1',
       url: '/',
-      templateUrl: 'templates/job_view.template.html',
+      templateUrl: 'templates/multiple_job_views.template.html',
       controller: 'JobViewController as ctr1',
       resolve : {
         jobPromise : ['$http', function ($http){
@@ -30,7 +30,7 @@
             method:"GET",
             url:'json_files/job_details.json'
           });
-          // console.log("Inside resolve...")
+           console.log("Inside resolve...")
 
           return jobPromise;
         }]
@@ -45,7 +45,7 @@
     // console.log("JobPromise:" + jobPromise);
       var jobDetailJson = jobPromise.data;
 
-      // console.log(jsonModObj);
+      console.log(jobDetailJson);
       ctr1.fullJobDetailsJson= ShortlistJobService.getAndSetFullJobDetails(jobPromise.data);;
       ctr1.shortlistedJobsJson= ShortlistJobService.getshortlistedJobsJson();
       ctr1.lastVisitedJobsJson= ShortlistJobService.getlastVisitedJobsJson();
@@ -54,9 +54,13 @@
 
       ctr1.shortListThisJob = function(jobId){
         ShortlistJobService.shortListThisJob(ctr1.jobDetailJson, ctr1.shortlistedJobsJson, jobId);
+        ctr1.jobDetailJson = ShortlistJobService.getjobDetailJson();
+        ctr1.shortlistedJobsJson= ShortlistJobService.getshortlistedJobsJson();
       }
       ctr1.remShortListJob = function(jobId){
-        ShortlistJobService.remShortListJob(ctr1.jobDetailJson, ctr1.shortlistedJobsJson, jobId);
+        ShortlistJobService.shortListThisJob(ctr1.shortlistedJobsJson,ctr1.jobDetailJson, jobId);
+        ctr1.jobDetailJson = ShortlistJobService.getjobDetailJson();
+        ctr1.shortlistedJobsJson= ShortlistJobService.getshortlistedJobsJson();
       }
 
 
@@ -84,6 +88,10 @@
       lastVisitedJobsJson= modJson.splice(0,5);
       lastWeekJobsJson= modJson.splice(0,5);
       jobDetailJson = modJson;
+      console.log("CompleteJson:" + fullJson);
+      console.log("shortlistedJobsJson:" + shortlistedJobsJson);
+      console.log("lastVisitedJobsJson:" + lastVisitedJobsJson);
+      console.log("lastWeekJobsJson:" + lastWeekJobsJson);
     }
 
     service.getshortlistedJobsJson = function(){
@@ -103,15 +111,16 @@
     }
 
     service.getAndSetFullJobDetails = function(jobDetailJson){
+      console.log("Inside Service..getAndSetFullJobDetails");
       var jsonKeys = Object.keys(jobDetailJson);
       var completeJson = [];
 
       for(var key in jsonKeys){
         var tempArr = jobDetailJson[key];
         // console.log(tempArr);
-        count=100;
+        var count=100;
         for(var ind=0;ind < tempArr.length; ind++){
-          tempArr[i].id= count;
+          tempArr[ind].id= count+"";
           completeJson.push(tempArr[ind]);
           count++;
         }
@@ -121,9 +130,16 @@
     }
 
 
-    service.shortListThisJob(completeJson, shortlistjson, id){
-
+    service.shortListThisJob = function(completeJson, shortlistjson, id){
+      var foundJob = null;
+      for(var i=0; i<completeJson.length;i++){
+        if(completeJson[i]['id'] == id){
+          foundJob = completeJson.splice(i,1);
+        }
+      }
+      shortlistjson.push(foundJob[0]);
     }
+
   }
 
 //   JobMineApp.run(['PrintToConsole', function(PrintToConsole) {
