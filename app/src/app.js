@@ -1,28 +1,18 @@
 (function(){
   "use strict";
   var JobMineApp = angular.module('JobmineApp',['ui.router'])
-  .controller('JobViewController', JobViewController)
-  .service('ShortlistJobService', ShortlistJobService);
+  .controller('JobViewController', JobViewController);
 
   JobMineApp.config(StateConfig);
-  JobMineApp.component('jobTemplate', {
-    templateUrl:'templates/job_view.template.html',
-    bindings:{
-      templateTitle:'@',
-      jobDetails:'<',
-      shortlistClick:'&'
-    },
-    controller: function(){}
-  });
 
   StateConfig.$inject=['$stateProvider','$urlRouterProvider'];
   function StateConfig($stateProvider, $urlRouterProvider){
-     console.log("Inside stateConfig..");
+    // console.log("Inside stateConfig..");
     $urlRouterProvider.otherwise('/');
-    $stateProvider.state({
-      name:'state1',
+    $stateProvider
+    .state('state1', {
       url: '/',
-      templateUrl: 'templates/multiple_job_views.template.html',
+      templateUrl: 'templates/job_view.template.html',
       controller: 'JobViewController as ctr1',
       resolve : {
         jobPromise : ['$http', function ($http){
@@ -30,7 +20,7 @@
             method:"GET",
             url:'json_files/job_details.json'
           });
-           console.log("Inside resolve...")
+          // console.log("Inside resolve...")
 
           return jobPromise;
         }]
@@ -38,107 +28,29 @@
      });
   }
 
-  JobViewController.$inject = ['jobPromise','ShortlistJobService']
-  function JobViewController(jobPromise, ShortlistJobService){
+  JobViewController.$inject = ['jobPromise']
+  function JobViewController(jobPromise){
     // console.log("Inside controller..")
     var ctr1 = this;
     // console.log("JobPromise:" + jobPromise);
       var jobDetailJson = jobPromise.data;
-
-      console.log(jobDetailJson);
-      ctr1.fullJobDetailsJson= ShortlistJobService.getAndSetFullJobDetails(jobPromise.data);;
-      ctr1.shortlistedJobsJson= ShortlistJobService.getshortlistedJobsJson();
-      ctr1.lastVisitedJobsJson= ShortlistJobService.getlastVisitedJobsJson();
-      ctr1.lastWeekJobsJson= ShortlistJobService.getlastWeekJobsJson();
-      ctr1.jobDetailJson = ShortlistJobService.getjobDetailJson();
-
-      ctr1.shortListThisJob = function(jobId){
-        ShortlistJobService.shortListThisJob(ctr1.jobDetailJson, ctr1.shortlistedJobsJson, jobId);
-        ctr1.jobDetailJson = ShortlistJobService.getjobDetailJson();
-        ctr1.shortlistedJobsJson= ShortlistJobService.getshortlistedJobsJson();
-      }
-      ctr1.remShortListJob = function(jobId){
-        ShortlistJobService.shortListThisJob(ctr1.shortlistedJobsJson,ctr1.jobDetailJson, jobId);
-        ctr1.jobDetailJson = ShortlistJobService.getjobDetailJson();
-        ctr1.shortlistedJobsJson= ShortlistJobService.getshortlistedJobsJson();
-      }
-
-
-  }
-
-  function MainController(){
-
-  }
-
-
-  function ShortlistJobService(){
-    var service = this;
-    var fullJson = null;
-    var fullJobDetailsJson =null;
-    var shortlistedJobsJson = null;
-    var lastVisitedJobsJson = null;
-    var lastWeekJobsJson = null;
-    var jobDetailJson = null;
-
-
-    service.setAllJobJsons = function(completeJson){
-      var modJson = completeJson.slice();
-      fullJson = completeJson.slice();
-      shortlistedJobsJson= modJson.splice(0,5);
-      lastVisitedJobsJson= modJson.splice(0,5);
-      lastWeekJobsJson= modJson.splice(0,5);
-      jobDetailJson = modJson;
-      console.log("CompleteJson:" + fullJson);
-      console.log("shortlistedJobsJson:" + shortlistedJobsJson);
-      console.log("lastVisitedJobsJson:" + lastVisitedJobsJson);
-      console.log("lastWeekJobsJson:" + lastWeekJobsJson);
-    }
-
-    service.getshortlistedJobsJson = function(){
-      return shortlistedJobsJson;
-    }
-
-    service.getlastVisitedJobsJson = function(){
-      return lastVisitedJobsJson;
-    }
-
-    service.getlastWeekJobsJson = function(){
-      return lastWeekJobsJson;
-    }
-
-    service.getjobDetailJson = function(){
-      return jobDetailJson;
-    }
-
-    service.getAndSetFullJobDetails = function(jobDetailJson){
-      console.log("Inside Service..getAndSetFullJobDetails");
       var jsonKeys = Object.keys(jobDetailJson);
-      var completeJson = [];
+      var jsonModObj = [];
 
       for(var key in jsonKeys){
         var tempArr = jobDetailJson[key];
         // console.log(tempArr);
-        var count=100;
+
         for(var ind=0;ind < tempArr.length; ind++){
-          tempArr[ind].id= count+"";
-          completeJson.push(tempArr[ind]);
-          count++;
+          jsonModObj.push(tempArr[ind]);
         }
       }
-      service.setAllJobJsons(completeJson);
-      return completeJson;
-    }
+      // console.log(jsonModObj);
+      ctr1.jobDetailJson = jsonModObj;
 
+  }
 
-    service.shortListThisJob = function(completeJson, shortlistjson, id){
-      var foundJob = null;
-      for(var i=0; i<completeJson.length;i++){
-        if(completeJson[i]['id'] == id){
-          foundJob = completeJson.splice(i,1);
-        }
-      }
-      shortlistjson.push(foundJob[0]);
-    }
+  function MainController(){
 
   }
 
