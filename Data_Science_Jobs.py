@@ -3,7 +3,7 @@
 
 # #Import all required libraries
 
-# In[1]:
+# In[2]:
 
 from bs4 import BeautifulSoup
 import urllib
@@ -12,11 +12,12 @@ import datetime
 import feedparser
 import pandas as pd
 from nltk.tokenize import word_tokenize
+import json
 
 
 # #Define tags
 
-# In[14]:
+# In[3]:
 
 skills_list = ['Python','Ruby','Scala','Go','R','Octave','Perl','C/C++','Java','SQL','Hadoop','Hive','Pig','Spark','noSQL','QlickView','Tableau','D3.js','SAS','MySQL','Lua','SPSS','Julia','ArcGIS','MongoDb','Cassandra','Azure','AWS','Redis','Hbase','MATLAB','Storm','Redshift','Kafka','Vertica','Greenplum','Teradata','Theano','TensorFlow','H2O','Xeno','MapReduce','Rapidminer','Numenta','Nupic','Solr']
 tech_list = ['Artificial Intelligence','Natural Language Processing','Operations Research','Bioinformatics','NLP','Data Visualization','Data Engineering','Statistics','Deep Learning','Computer Vision','Analytics','Machine Learning','AI','Big Data']
@@ -26,7 +27,7 @@ domain_list = ['Finance','Trading','Marketing','HealthCare','Sports']
 
 # #Define functions to scrape and extract need info.
 
-# In[2]:
+# In[4]:
 
 def soupify(url):
     with urllib.request.urlopen(url) as url:
@@ -35,7 +36,7 @@ def soupify(url):
     return soup
 
 
-# In[87]:
+# In[5]:
 
 def tags(desc,listname):
     return list(set([tag for tag in word_tokenize(desc) if tag in listname]))
@@ -44,7 +45,7 @@ def kaggle_tagsloop(desc):
     return tags(desc,worktype_list) + tags(desc,domain_list) + tags(desc,tech_list) + tags(desc,skills_list)
 
 
-# In[92]:
+# In[6]:
 
 def extract(source,jobs,fn_company_name,fn_company_logo,fn_job_position,fn_job_location,fn_posted_date,fn_job_link,fn_job_desc):
     company_name = []
@@ -78,7 +79,7 @@ def extract(source,jobs,fn_company_name,fn_company_logo,fn_job_position,fn_job_l
 
 # #kaggle job board
 
-# In[88]:
+# In[7]:
 
 source_kaggle = 'Kaggle'
 url_kaggle = 'https://www.kaggle.com/jobs'
@@ -106,14 +107,14 @@ def kaggle_desc(element):
     return kaggle_descloop("https://www.kaggle.com" + element.get('href'))
 
 
-# In[93]:
+# In[8]:
 
 kaggle = extract(source_kaggle,jobs_kaggle,kaggle_company_name,kaggle_company_logo,kaggle_job_position,kaggle_job_location,kaggle_posted_date,kaggle_job_link,kaggle_desc)
 
 
 # #kdnuggets job board
 
-# In[106]:
+# In[9]:
 
 source_kdnuggets = 'Kdnuggets'
 url_kdnuggets = "http://www.kdnuggets.com/jobs/index.html"
@@ -155,14 +156,14 @@ def kdnuggets_desc(element):
     return kdnuggets_descloop(element.find("a").get('href'))
 
 
-# In[107]:
+# In[10]:
 
 kdnuggets = extract(source_kdnuggets, jobs_kdnuggets,kdnuggets_company_name,kdnuggets_company_logo,kdnuggets_job_position,kdnuggets_job_location,kdnuggets_posted_date,kdnuggets_job_link,kdnuggets_desc)
 
 
 # #datawerq job board
 
-# In[126]:
+# In[11]:
 
 source_datawerq = 'Datawerq'
 url_datawerq = "https://www.datawerq.com/"
@@ -191,7 +192,7 @@ def datawerq_desc(element):
     return datawerq_descloop("https://www.datawerq.com" + element.find(class_ = "col-md-6 col-sm-6 col-xs-6").find("a").get('href'))
 
 
-# In[127]:
+# In[12]:
 
 url_datawerq1 = "https://www.datawerq.com/?page=2"
 jobs_datawerq1 = soupify(url_datawerq1).find(class_="col-md-8 col-sm-12").find_all(class_ = "row joblisting")
@@ -206,7 +207,7 @@ url_datawerq4 = "https://www.datawerq.com/?page=5"
 jobs_datawerq4 = soupify(url_datawerq4).find(class_="col-md-8 col-sm-12").find_all(class_ = "row joblisting")
 
 
-# In[128]:
+# In[13]:
 
 datawerq = extract(source_datawerq, jobs_datawerq,datawerq_company_name,datawerq_company_logo,datawerq_job_position,datawerq_job_location,datawerq_posted_date,datawerq_job_link,datawerq_desc)
 datawerq1 = extract(source_datawerq, jobs_datawerq1,datawerq_company_name,datawerq_company_logo,datawerq_job_position,datawerq_job_location,datawerq_posted_date,datawerq_job_link,datawerq_desc)
@@ -217,7 +218,7 @@ datawerq4 = extract(source_datawerq, jobs_datawerq4,datawerq_company_name,datawe
 
 # #dataelixir job board
 
-# In[135]:
+# In[14]:
 
 source_dataelixir = 'Dataelixir'
 url_dataelixir = "https://jobs.dataelixir.com/"
@@ -245,14 +246,14 @@ def dataelixir_desc(element):
     return dataelixir_descloop("https://jobs.dataelixir.com" + element.find("a").get('href'))
 
 
-# In[145]:
+# In[15]:
 
 dataelixir = extract(source_dataelixir,jobs_dataelixir,dataelixir_company_name,dataelixir_company_logo,dataelixir_job_position,dataelixir_job_location,dataelixir_posted_date,dataelixir_job_link,dataelixir_desc)
 
 
 # #analyticstalent job board
 
-# In[146]:
+# In[16]:
 
 source_analyticstalent = 'AnalyticsTalent'
 url_analyticstalent = "http://careers.analytictalent.com/jobs/data-scientist-data-scientist-302382951-b?page=1"
@@ -280,7 +281,7 @@ def analyticstalent_desc(element):
     return analyticstalent_descloop("http://careers.analytictalent.com/jobs" + element.find("a").get('href'))
 
 
-# In[148]:
+# In[17]:
 
 url_analyticstalent1 = "http://careers.analytictalent.com/jobs/data-scientist-data-scientist-302382951-b?page=2"
 jobs_analyticstalent1 = soupify(url_analyticstalent1).find(class_="aiResultsStackedWrapper aiClearfix").find_all(class_ = "aiResultsWrapper")
@@ -295,7 +296,7 @@ url_analyticstalent4 = "http://careers.analytictalent.com/jobs/data-scientist-da
 jobs_analyticstalent4 = soupify(url_analyticstalent4).find(class_="aiResultsStackedWrapper aiClearfix").find_all(class_ = "aiResultsWrapper")
 
 
-# In[150]:
+# In[18]:
 
 analyticstalent = extract(source_analyticstalent,jobs_analyticstalent,analyticstalent_company_name,analyticstalent_company_logo,analyticstalent_job_position,analyticstalent_job_location,analyticstalent_posted_date,analyticstalent_job_link,analyticstalent_desc)
 analyticstalent1 = extract(source_analyticstalent,jobs_analyticstalent1,analyticstalent_company_name,analyticstalent_company_logo,analyticstalent_job_position,analyticstalent_job_location,analyticstalent_posted_date,analyticstalent_job_link,analyticstalent_desc)
@@ -306,7 +307,7 @@ analyticstalent4 = extract(source_analyticstalent,jobs_analyticstalent4,analytic
 
 # #github job board
 
-# In[152]:
+# In[19]:
 
 source_github = 'Github'
 url_github = "https://jobs.github.com/positions?description=data+scientist&location="
@@ -335,14 +336,14 @@ def github_desc(element):
     return github_descloop("https://jobs.github.com" + element.find("a").get('href'))
 
 
-# In[153]:
+# In[20]:
 
 github = extract(source_github,jobs_github,github_company_name,github_company_logo,github_job_position,github_job_location,github_posted_date,github_job_link,github_desc)
 
 
 # #stackoverflow job board
 
-# In[156]:
+# In[21]:
 
 source_stackoverflow = 'Stackoverflow'
 url_stackoverflow = "http://stackoverflow.com/jobs?sort=i&q=data+scientist"
@@ -371,14 +372,14 @@ def stackoverflow_desc(element):
     return stackoverflow_descloop(element.find(class_ = "job-link").get('href'))
 
 
-# In[157]:
+# In[22]:
 
 stackoverflow = extract(source_stackoverflow,jobs_stackoverflow,stackoverflow_company_name,stackoverflow_company_logo,stackoverflow_job_position,stackoverflow_job_location,stackoverflow_posted_date,stackoverflow_job_link,stackoverflow_desc)
 
 
 # #date standardization
 
-# In[159]:
+# In[23]:
 
 def date_format(date):
     if date == 'yesterday':
@@ -426,14 +427,35 @@ def date_format(date):
         
 
 
-# In[160]:
+# In[100]:
+
+def timeline_container(date):
+    if (datetime.date.today() - date).days <= 7:
+        return 'Current_week'
+    if (datetime.date.today() - date).days > 7 and (datetime.date.today() - date).days <= 30:
+        return 'Current_month'
+    if (datetime.date.today() - date).days > 30:
+        return 'Previous_months'
+
+
+# In[105]:
+
+def posted_days_ago(date):
+    if (datetime.date.today() - date).days == 0:
+        return 'Today'
+    if (datetime.date.today() - date).days == 1:
+        return 'Yesterday'
+    if (datetime.date.today() - date).days > 1:
+        return '%s days ago' %(datetime.date.today() - date).days
+
+
+# In[62]:
 
 data = kaggle.append(kdnuggets,ignore_index = True).append(datawerq,ignore_index = True).append(datawerq1,ignore_index = True).append(datawerq2,ignore_index = True).append(datawerq3,ignore_index = True).append(datawerq4,ignore_index = True).append(dataelixir,ignore_index = True).append(analyticstalent,ignore_index = True).append(analyticstalent1,ignore_index = True).append(analyticstalent2,ignore_index = True).append(analyticstalent3,ignore_index = True).append(analyticstalent4,ignore_index = True).append(github,ignore_index = True).append(stackoverflow,ignore_index = True)
 
 
-# In[162]:
+# In[63]:
 
-data['index_col'] = data.index
 data["company_logo"] = data["company_logo"].map(str.strip)
 data["company_name"] = data["company_name"].map(str.strip)
 data["job_link"] = data["job_link"].map(str.strip)
@@ -443,21 +465,34 @@ data["posted_date"] = data["posted_date"].map(str.strip)
 data["job_desc"] = data["job_desc"].map(str.strip)
 
 
-# In[163]:
+# In[64]:
 
 data["posted_date"] = data["posted_date"].apply(date_format)
-
-
-# In[164]:
-
 data["tags"] = data["job_desc"].apply(kaggle_tagsloop)
+data['Rank'] = data.sort_values(['posted_date'], ascending=[False]).groupby(['company_name','job_position']).cumcount() + 1
 
 
+# In[119]:
+
+output = data[(data.Rank == 1)]
+output = output.sort('posted_date', ascending=False)
+output['posted_days_ago'] =  output["posted_date"].apply(posted_days_ago)
+output['timeline_container'] =  output["posted_date"].apply(timeline_container)
+output = output.reset_index(drop=True)
+output['index_col'] = output.index
 
 
-# In[167]:
+# In[120]:
 
-out = data.to_json(orient='records')
+output1 = output[['index_col','Source','company_logo','company_name','job_link','job_location','job_position','tags','posted_days_ago','timeline_container']]
+
+
+# In[139]:
+
+output_json = output1.to_json(orient='records')
+output_jsonload = json.loads(out)
+with open('job_details.json', 'w') as outfile:
+    json.dump(output_jsonload, outfile)
 
 
 # In[ ]:
