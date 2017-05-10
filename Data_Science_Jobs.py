@@ -13,6 +13,7 @@ import feedparser
 import pandas as pd
 from nltk.tokenize import word_tokenize
 import json
+import urllib.request
 
 
 # #Define tags
@@ -114,7 +115,7 @@ kaggle = extract(source_kaggle,jobs_kaggle,kaggle_company_name,kaggle_company_lo
 
 # #kdnuggets job board
 
-# In[9]:
+# In[224]:
 
 source_kdnuggets = 'Kdnuggets'
 url_kdnuggets = "http://www.kdnuggets.com/jobs/index.html"
@@ -143,7 +144,7 @@ def kdnuggets_descloop(url_gm):
 def kdnuggets_company_name(element):
     return element.find("a").get_text().split(':')[0]
 def kdnuggets_company_logo(element):
-    return kdnuggets_imgloop(element.find("a").get('href'))
+    return kdnuggets_imgloop(element.find("a").get('href')) if "http" in kdnuggets_imgloop(element.find("a").get('href')) else "http://www.kdnuggets.com/" + kdnuggets_imgloop(element.find("a").get('href')) 
 def kdnuggets_job_position(element):
     return element.find("a").get_text().split(':')[1]
 def kdnuggets_job_location(element):
@@ -156,7 +157,7 @@ def kdnuggets_desc(element):
     return kdnuggets_descloop(element.find("a").get('href'))
 
 
-# In[10]:
+# In[225]:
 
 kdnuggets = extract(source_kdnuggets, jobs_kdnuggets,kdnuggets_company_name,kdnuggets_company_logo,kdnuggets_job_position,kdnuggets_job_location,kdnuggets_posted_date,kdnuggets_job_link,kdnuggets_desc)
 
@@ -218,7 +219,7 @@ datawerq4 = extract(source_datawerq, jobs_datawerq4,datawerq_company_name,datawe
 
 # #dataelixir job board
 
-# In[14]:
+# In[208]:
 
 source_dataelixir = 'Dataelixir'
 url_dataelixir = "https://jobs.dataelixir.com/"
@@ -233,7 +234,7 @@ def dataelixir_descloop(url_gm):
 def dataelixir_company_name(element):
     return element.find(class_ = "jobList-intro").find("a").next_sibling.contents[0]
 def dataelixir_company_logo(element):
-    return 'NL' if element.find("img").get('src') == '//d1stfaw6j21ccs.cloudfront.net/assets/main/fallback_job_logo-f85127a73133a1238ba3dfde66660dc9d8649d47df4b0312c069f7b502696ba8.png' else "https://" + element.find("img").get('src')
+    return 'NL' if element.find("img").get('src') == '//d1stfaw6j21ccs.cloudfront.net/assets/main/fallback_job_logo-f85127a73133a1238ba3dfde66660dc9d8649d47df4b0312c069f7b502696ba8.png' else element.find("img").get('src')
 def dataelixir_job_position(element):
     return element.find(class_ = "jobList-intro").find("strong").get_text() 
 def dataelixir_job_location(element):
@@ -246,7 +247,7 @@ def dataelixir_desc(element):
     return dataelixir_descloop("https://jobs.dataelixir.com" + element.find("a").get('href'))
 
 
-# In[15]:
+# In[209]:
 
 dataelixir = extract(source_dataelixir,jobs_dataelixir,dataelixir_company_name,dataelixir_company_logo,dataelixir_job_position,dataelixir_job_location,dataelixir_posted_date,dataelixir_job_link,dataelixir_desc)
 
@@ -449,12 +450,12 @@ def posted_days_ago(date):
         return '%s days ago' %(datetime.date.today() - date).days
 
 
-# In[62]:
+# In[227]:
 
 data = kaggle.append(kdnuggets,ignore_index = True).append(datawerq,ignore_index = True).append(datawerq1,ignore_index = True).append(datawerq2,ignore_index = True).append(datawerq3,ignore_index = True).append(datawerq4,ignore_index = True).append(dataelixir,ignore_index = True).append(analyticstalent,ignore_index = True).append(analyticstalent1,ignore_index = True).append(analyticstalent2,ignore_index = True).append(analyticstalent3,ignore_index = True).append(analyticstalent4,ignore_index = True).append(github,ignore_index = True).append(stackoverflow,ignore_index = True)
 
 
-# In[63]:
+# In[228]:
 
 data["company_logo"] = data["company_logo"].map(str.strip)
 data["company_name"] = data["company_name"].map(str.strip)
@@ -465,14 +466,14 @@ data["posted_date"] = data["posted_date"].map(str.strip)
 data["job_desc"] = data["job_desc"].map(str.strip)
 
 
-# In[64]:
+# In[229]:
 
 data["posted_date"] = data["posted_date"].apply(date_format)
 data["tags"] = data["job_desc"].apply(kaggle_tagsloop)
 data['Rank'] = data.sort_values(['posted_date'], ascending=[False]).groupby(['company_name','job_position']).cumcount() + 1
 
 
-# In[119]:
+# In[230]:
 
 output = data[(data.Rank == 1)]
 output = output.sort('posted_date', ascending=False)
@@ -482,7 +483,7 @@ output = output.reset_index(drop=True)
 output['index_col'] = output.index
 
 
-# In[120]:
+# In[231]:
 
 output1 = output[['index_col','Source','company_logo','company_name','job_link','job_location','job_position','tags','posted_days_ago','timeline_container']]
 
@@ -493,6 +494,23 @@ output_json = output1.to_json(orient='records')
 output_jsonload = json.loads(out)
 with open('job_details.json', 'w') as outfile:
     json.dump(output_jsonload, outfile)
+
+
+# In[235]:
+
+def get_images(data):
+    default_image_link = "https://cdnd.icons8.com/wp-content/uploads/2015/06/Lighthouse-512.png"
+    filename= "%s.png" %data['index_col']
+    image_link = default_image_link if data['company_logo'] == "NL" else data['company_logo'] 
+    opener=urllib.request.build_opener()
+    opener.addheaders=[('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1941.0 Safari/537.36')]
+    urllib.request.install_opener(opener)
+    urllib.request.urlretrieve(image_link, filename)
+
+
+# In[234]:
+
+output1.apply(get_images, axis = 1)
 
 
 # In[ ]:
