@@ -6,6 +6,10 @@
   max-width:100%;
   height:auto;
 }
+
+.job-group{
+  margin: 40px 0px 30px -20px;
+}
 .job-main:hover{
  background-color:#f6f6f6;
 }

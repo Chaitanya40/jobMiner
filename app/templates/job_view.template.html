@@ -2,7 +2,7 @@
   <div class="row justify-content-center">
     <div class="col-md-10 col-lg-10 col-xl-10 col-sm-12">
       <div class="d-flex flex-column">
-        <div data-class= "job type featured shortlisted recent" class="job-class p-2">
+        <div data-class= "job type featured shortlisted recent" class="job-group">
           <h3> {{$ctrl.templateTitle}} </h3>
         </div>
 
@@ -44,7 +44,7 @@
           <a data-toggle="tooltip" data-animation="false" data-placement="bottom" title="{{'Apply on ' + job.Source}}" target="_blank" rel="external" class="prevent-link" href="{{::job.job_link}}"><p> Apply </p></a>
         </div>
         <div class="hidden-sm-down m-auto">
-          <a data-toggle="tooltip" data-animation="false" data-placement="right" title="Shortlist this job" class="prevent-link" href="#"
+          <a data-toggle="tooltip" data-animation="false" data-placement="right" title="Shortlist this job" class="prevent-link destroytip" href="#"
           ng-click="$ctrl.shortlistClick({$Id:job.id})">
           <span class="fa fa-heart heart-icon" title="Shortlist this job" aria-hidden="true"></span>
           </a>
