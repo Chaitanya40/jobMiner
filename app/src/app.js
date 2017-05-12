@@ -1,8 +1,9 @@
 (function(){
   "use strict";
-  var JobMineApp = angular.module('JobmineApp',['ui.router'])
+  var JobMineApp = angular.module('JobmineApp',['ui.router', 'ngCookies'])
   .controller('JobViewController', JobViewController)
-  .service('ShortlistJobService', ShortlistJobService);
+  .service('ShortlistJobService', ShortlistJobService)
+  .service('CookieService', CookieService);
 
   JobMineApp.config(StateConfig);
   JobMineApp.component('jobTemplate', {
@@ -38,15 +39,19 @@
      });
   }
 
-  JobViewController.$inject = ['jobPromise','ShortlistJobService']
-  function JobViewController(jobPromise, ShortlistJobService){
+  JobViewController.$inject = ['jobPromise','ShortlistJobService', 'CookieService']
+  function JobViewController(jobPromise, ShortlistJobService, CookieService){
     // console.log("Inside controller..")
     var ctr1 = this;
-    // console.log("JobPromise:" + jobPromise);
+     //console.log("JobPromise:" + jobPromise);
       var jobDetailJson = jobPromise.data;
+      CookieService.setCookies();
+      var shortlistedJobIds = CookieService.fetchShortlistedJobsFromCookie();
+      var lastVisit = CookieService.getLastVisitedDate();
 
       console.log(jobDetailJson);
-      ctr1.fullJobDetailsJson= ShortlistJobService.getAndSetFullJobDetails(jobPromise.data);;
+      ShortlistJobService.setFullJobDetails(jobPromise.data, shortlistedJobIds);
+
       ctr1.shortlistedJobsJson= ShortlistJobService.getshortlistedJobsJson();
       ctr1.lastVisitedJobsJson= ShortlistJobService.getlastVisitedJobsJson();
       ctr1.lastWeekJobsJson= ShortlistJobService.getlastWeekJobsJson();
@@ -70,8 +75,8 @@
 
   }
 
-
-  function ShortlistJobService(){
+  ShortlistJobService.$inject =['CookieService']
+  function ShortlistJobService(CookieService){
     var service = this;
     var fullJson = null;
     var fullJobDetailsJson =null;
@@ -84,12 +89,9 @@
     service.setAllJobJsons = function(completeJson){
       var modJson = completeJson.slice();
       fullJson = completeJson.slice();
-      shortlistedJobsJson= modJson.splice(0,5);
       lastVisitedJobsJson= modJson.splice(0,5);
       lastWeekJobsJson= modJson.splice(0,5);
-      jobDetailJson = modJson;
       console.log("CompleteJson:" + fullJson);
-      console.log("shortlistedJobsJson:" + shortlistedJobsJson);
       console.log("lastVisitedJobsJson:" + lastVisitedJobsJson);
       console.log("lastWeekJobsJson:" + lastWeekJobsJson);
     }
@@ -110,36 +112,77 @@
       return jobDetailJson;
     }
 
-    service.getAndSetFullJobDetails = function(jobDetailJson){
+    service.setFullJobDetails = function(jobDataList, shortlistedJobIds){
       console.log("Inside Service..getAndSetFullJobDetails");
-      var jsonKeys = Object.keys(jobDetailJson);
       var completeJson = [];
+      var shortlistedJobList=[];
 
-      for(var key in jsonKeys){
-        var tempArr = jobDetailJson[key];
         // console.log(tempArr);
-        var count=100;
-        for(var ind=0;ind < tempArr.length; ind++){
-          tempArr[ind].id= count+"";
-          completeJson.push(tempArr[ind]);
-          count++;
+        var isShortListed = false;
+        for(var ind=0;ind < jobDataList.length; ind++){
+          for(var sIter=0; sIter<shortlistedJobIds.length; sIter++){
+            if(shortlistedJobIds[sIter] === jobDataList[ind]['index_col']){
+              shortlistedJobList.push(jobDataList[ind]);
+              isShortListed = true;
+            }
+          }
+          if(!isShortListed){
+              completeJson.push(jobDataList[ind]);
+              isShortListed = false;
+          }
         }
-      }
       service.setAllJobJsons(completeJson);
-      return completeJson;
+      jobDetailJson = completeJson;
+      shortlistedJobsJson = shortlistedJobList;
     }
 
 
     service.shortListThisJob = function(completeJson, shortlistjson, id){
       var foundJob = null;
       for(var i=0; i<completeJson.length;i++){
-        if(completeJson[i]['id'] == id){
+        if(completeJson[i]['index_col'] == id){
           foundJob = completeJson.splice(i,1);
         }
       }
       shortlistjson.push(foundJob[0]);
+      CookieService.addShortlistCookie(foundJob[0]['index_col']);
+
     }
 
+  }
+
+  CookieService.$inject = ['$cookies']
+  function CookieService($cookies){
+    var service = this;
+    var shortlistCookieId = "shortlist";
+    var lastVisitedId = "lastVisited";
+
+    service.setCookies = function(){
+      //console.log(cookies);
+      var date = new Date(Date.now());
+      $cookies.putObject(lastVisitedId, date);
+      //$cookies.put("path", "/");
+    }
+
+    service.addShortlistCookie = function(jobId){
+      var shortlistedJobs = $cookies.get(shortlistCookieId);
+      if(!shortlistedJobs){
+        shortlistedJobs = [];
+      }
+      shortlistedJobs.push(jobId);
+      $cookies.putObject(shortlistCookieId,shortlistedJobs);
+    }
+
+    service.getLastVisitedDate = function(){
+      return $cookies.getObject(lastVisitedId);
+    }
+
+    service.fetchShortlistedJobsFromCookie = function(){
+      if($cookies.getObject(shortlistCookieId)){
+        return $cookies.getObject(shortlistCookieId);
+      }
+      return [];
+    }
   }
 
 //   JobMineApp.run(['PrintToConsole', function(PrintToConsole) {
