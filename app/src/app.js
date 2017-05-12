@@ -118,8 +118,9 @@
       var shortlistedJobList=[];
 
         // console.log(tempArr);
-        var isShortListed = false;
+        var isShortListed;
         for(var ind=0;ind < jobDataList.length; ind++){
+          isShortListed = false;
           for(var sIter=0; sIter<shortlistedJobIds.length; sIter++){
             if(shortlistedJobIds[sIter] === jobDataList[ind]['index_col']){
               shortlistedJobList.push(jobDataList[ind]);
@@ -165,7 +166,7 @@
     }
 
     service.addShortlistCookie = function(jobId){
-      var shortlistedJobs = $cookies.get(shortlistCookieId);
+      var shortlistedJobs = $cookies.getObject(shortlistCookieId);
       if(!shortlistedJobs){
         shortlistedJobs = [];
       }
