@@ -47,7 +47,8 @@
           return jobPromise;
         }]
       }
-     });
+     })
+     
   }
 
   JobViewController.$inject = ['jobPromise','ShortlistJobService', 'CookieService']
@@ -61,7 +62,7 @@
       var lastVisit = CookieService.getLastVisitedDate();
 
       console.log(jobDetailJson);
-      ShortlistJobService.setFullJobDetails(jobPromise.data, shortlistedJobIds);
+      ShortlistJobService.setFullJobDetails(jobPromise.data.slice(), shortlistedJobIds);
 
       ctr1.shortlistedJobsJson= ShortlistJobService.getshortlistedJobsJson();
       ctr1.lastVisitedJobsJson= ShortlistJobService.getlastVisitedJobsJson();
@@ -99,7 +100,7 @@
 
     service.setAllJobJsons = function(completeJson){
       var modJson = completeJson.slice();
-      fullJson = completeJson.slice();
+      fullJson = completeJson[0];
       lastVisitedJobsJson= modJson.splice(0,5);
       lastWeekJobsJson= modJson.splice(0,5);
       console.log("CompleteJson:" + fullJson);
@@ -128,7 +129,7 @@
       var completeJson = [];
       var shortlistedJobList=[];
 
-        // console.log(tempArr);
+         console.log(jobDataList);
         var isShortListed;
         for(var ind=0;ind < jobDataList.length; ind++){
           isShortListed = false;
