@@ -6,6 +6,7 @@
   .service('CookieService', CookieService);
 
   JobMineApp.config(StateConfig);
+
   JobMineApp.component('jobTemplate', {
     templateUrl:'templates/job_view.template.html',
     bindings:{
@@ -16,15 +17,25 @@
     controller: function(){}
   });
 
+
+
   StateConfig.$inject=['$stateProvider','$urlRouterProvider'];
   function StateConfig($stateProvider, $urlRouterProvider){
      console.log("Inside stateConfig..");
     $urlRouterProvider.otherwise('/');
     $stateProvider.state({
-      name:'state1',
+      name:'main',
       url: '/',
-      templateUrl: 'templates/multiple_job_views.template.html',
-      controller: 'JobViewController as ctr1',
+      views: {
+        job_container: {
+          templateUrl: 'templates/multiple_job_views.template.html',
+          controller: 'JobViewController as ctr1'
+        },
+        filter_container:{
+          templateUrl: 'templates/filter.template.html',
+          controller: 'FilterController as ftr'
+        }
+      },
       resolve : {
         jobPromise : ['$http', function ($http){
           var jobPromise = $http({
