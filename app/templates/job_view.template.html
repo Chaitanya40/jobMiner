@@ -11,27 +11,12 @@
           <img src="images/facebook.png" alt="Company logo" class="mx-auto">
           </div>
         <div class="col-xs-12 col-sm-12 col-md-4 p-2">
-          <a class="prevent-link job-role" ng-click="filterJobs(job.job_position)" href="#"> <h2>{{::job.job_position}}</h2></a>
+          <a ui-sref="root.filter({criteria:'company', value:job.job_position})" class="prevent-link job-role" href="#"> <h2>{{::job.job_position}}</h2></a>
           <a class="prevent-link" href="#"><span class="company-name "> {{::job.company_name}} </span> <span class="job-location">, {{::job.job_location}} </span> </a>
         </div>
         <div class="d-flex flex-wrap align-content-start col-xs-12 col-sm-12 col-md-4 mb-0" >
-          <div class="tag tag-design">
-            <span> Full Time</span>
-          </div>
-          <div class="tag tag-design">
-            <span> Remote Time</span>
-          </div>
-          <div class="tag tag-design">
-            <span> nlp</span>
-          </div>
-          <div class="tag tag-design">
-            <span> Full Time</span>
-          </div>
-          <div class="tag tag-design">
-            <span> Full Time</span>
-          </div>
-          <div class="tag tag-design">
-            <span> Full Time</span>
+          <div ng-repeat = "tag in job.tags" class="tag tag-design">
+            <span><a ui-sref="root.filter({criteria:'tag', value: tag})" class="prevent-link"> {{tag}} </a></span>
           </div>
 
         </div>

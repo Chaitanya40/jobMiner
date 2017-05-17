@@ -24,18 +24,18 @@
      console.log("Inside stateConfig..");
     $urlRouterProvider.otherwise('/');
     $stateProvider.state({
-      name:'main',
+      name:'root',
       url: '/',
-      views: {
-        job_container: {
-          templateUrl: 'templates/multiple_job_views.template.html',
-          controller: 'JobViewController as ctr1'
-        },
-        filter_container:{
-          templateUrl: 'templates/filter.template.html',
-          controller: 'FilterController as ftr'
-        }
-      },
+      // views: {
+      //   job_container: {
+      templateUrl: 'templates/multiple_job_views.template.html',
+      controller: 'JobViewController as ctr1',
+        //}
+        // filter_container:{
+        //   templateUrl: 'templates/filter.template.html',
+        //   controller: 'FilterController as ftr'
+        // }
+      // },
       resolve : {
         jobPromise : ['$http', function ($http){
           var jobPromise = $http({
@@ -48,7 +48,17 @@
         }]
       }
      })
-     
+     .state({
+       name: 'root.filter',
+       url: 'search/{criteria}/{value}',
+       views:{
+         "@": {
+          templateUrl: 'templates/filtered_jobs.template.html',
+          controller: 'FilterController as ctr1'
+         }
+       }
+     })
+
   }
 
   JobViewController.$inject = ['jobPromise','ShortlistJobService', 'CookieService']
@@ -196,6 +206,11 @@
       }
       return [];
     }
+  }
+
+  SearchViewController.$inject = ['jobPromise','FilterService', '$stateParams']
+  function SearchViewController(jobPromise, FilterService, $stateParams){
+    jobPromise.data;
   }
 
 //   JobMineApp.run(['PrintToConsole', function(PrintToConsole) {
