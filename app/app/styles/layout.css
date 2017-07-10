@@ -1,0 +1,18 @@
+.cabin{
+  font-family: 'Cabin', sans-serif;
+}
+
+.logo{
+
+}
+
+.bg-logo{
+  background-image: url('/images/DataScienceWorldMap.png');
+}
+
+.jumbotron{
+  height: 300px;
+  -webkit-background-size: cover;
+    background-size: cover;
+
+}
