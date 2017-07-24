@@ -1,55 +1,71 @@
-'use strict';
+(function () {
+  'use strict';
 
-angular.module('JobminerApp').config(StateConfig);
+  angular.module('JobminerApp').config(StateConfig);
 
-StateConfig.$inject=['$stateProvider','$urlRouterProvider'];
-  function StateConfig($stateProvider, $urlRouterProvider){
-     console.log("Inside stateConfig..");
-    $urlRouterProvider.otherwise('/');
+  StateConfig.$inject = ['$stateProvider', '$urlRouterProvider'];
+  function StateConfig($stateProvider, $urlRouterProvider) {
+    console.log('Inside stateConfig..');
+    $urlRouterProvider.when('', ['$injector', function($injector){
+      var state = $injector.get('$state');
+      state.go('root.jobs', {all:true});
+    }]);
+    // $urlRouterProvider.otherwise(root.jobs({all:true}));
     $stateProvider
-    .state({
-      name:'root',
-      url: '/',
-      views: {
-        'header':{
-          templateUrl : '/views/header.template.html'
+      .state({
+        name: 'root',
+        views: {
+          'header': {
+            templateUrl: '/views/header.template.html'
+          },
+          'placeholder': {
+            templateUrl: '/scripts/jobs-list/jobslistplaceholder.template.html',
+            controller: 'JobsExtractorCtrl as extrCtrl'
+          }
         },
-        'placeholder' : {
-           templateUrl : '/scripts/jobs-list/jobslistplaceholder.template.html',
-           controller : 'JobsExtractorController as extr'
-         }
-      },
         // filter_container:{
         //   templateUrl: 'templates/filter.template.html',
         //   controller: 'FilterController as ftr'
         // }
-      // },
-      resolve : {
-        jobPromise : ['$http', function ($http){
-          var jobPromise = $http({
-            method:"GET",
-            url:'/data/job_details.json'
-          });
-           console.log("Inside resolve...");
+        // },
+        resolve: {
+          jobPromise: ['$http', function ($http) {
+            var jobPromise = $http({
+              method: 'GET',
+              url: '/data/job_details.json'
+            });
+            console.log('Inside resolve...');
 
-          return jobPromise;
-        }]
-      }
-     })
-     .state({
-       name :'root.jobs',
-       url :'jobs',
-       views:{
-         'jobslist':{
-           templateUrl : '/scripts/jobs-list/job.template.html'
-         }
-       }
-     });
+            return jobPromise;
+          }]
+        }
+      })
+      .state({
+        name: 'root.jobs',
+        url: '/jobs',
+        params: {
+          all : true,
+          source: null,
+          days: null,
+          city: null,
+          company: null,
+          location: null,
+          position: null,
+          tags: null,
+          shortlist: null
+        },
+        views: {
+          'jobslist': {
+            templateUrl: '/scripts/jobs-list/job.template.html',
+            controller: 'JobsviewCtrl as viewCtrl'
+          }
+        }
+      });
     //  .state({
     //    name: 'root.filter',
     //    url: 'search/{criteria}/{value}',
     //    views:{
-    //      "@": {
+    //      '@': {
     //       templateUrl: 'templates/filtered_jobs.template.html',
     //       controller: 'FilterController as ctr1'
     //      }
@@ -57,5 +73,5 @@ StateConfig.$inject=['$stateProvider','$urlRouterProvider'];
     //  })
 
   }
-
+})();
 

@@ -1,3 +1,4 @@
+(function(){
 'use strict';
 
 /**
@@ -9,4 +10,5 @@
  * Main module of the application.
  */
 angular
-  .module('JobminerApp', ['ui.router']);
+  .module('JobminerApp', ['ui.router', 'ngCookies']);
+})();

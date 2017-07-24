@@ -1,3 +1,4 @@
+(function(){
 'use strict';
 
 angular.module('JobminerApp')
@@ -15,3 +16,4 @@ function JobsListComponent(){
   return config;
 
 }
+})();
