@@ -10,5 +10,5 @@
  * Main module of the application.
  */
 angular
-  .module('JobminerApp', ['ui.router', 'ngCookies']);
+  .module('JobminerApp', ['ui.router', 'ngCookies', 'angular-google-analytics']);
 })();

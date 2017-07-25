@@ -1,16 +1,22 @@
 (function () {
   'use strict';
 
-  angular.module('JobminerApp').config(StateConfig);
+  angular.module('JobminerApp').config(StateConfig)
+    .config(['AnalyticsProvider', function (AnalyticsProvider) {
+      AnalyticsProvider.setAccount('UA-103194307-1');
+    }]).run(['Analytics', function (Analytics) { }]);
+
+
 
   StateConfig.$inject = ['$stateProvider', '$urlRouterProvider'];
   function StateConfig($stateProvider, $urlRouterProvider) {
-    console.log('Inside stateConfig..');
-    $urlRouterProvider.when('', ['$injector', function($injector){
+
+    $urlRouterProvider.when('', ['$injector', function ($injector) {
       var state = $injector.get('$state');
-      state.go('root.jobs', {all:true});
+      state.go('root.jobs', { all: true });
     }]);
-    // $urlRouterProvider.otherwise(root.jobs({all:true}));
+    $urlRouterProvider.otherwise('/jobs');
+
     $stateProvider
       .state({
         name: 'root',
@@ -23,18 +29,12 @@
             controller: 'JobsExtractorCtrl as extrCtrl'
           }
         },
-        // filter_container:{
-        //   templateUrl: 'templates/filter.template.html',
-        //   controller: 'FilterController as ftr'
-        // }
-        // },
         resolve: {
           jobPromise: ['$http', function ($http) {
             var jobPromise = $http({
               method: 'GET',
               url: '/data/job_details.json'
             });
-            console.log('Inside resolve...');
 
             return jobPromise;
           }]
@@ -44,7 +44,7 @@
         name: 'root.jobs',
         url: '/jobs',
         params: {
-          all : true,
+          all: true,
           source: null,
           days: null,
           city: null,

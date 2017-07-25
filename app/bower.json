@@ -10,7 +10,8 @@
     "angular-cookies": "^1.6.5"
   },
   "devDependencies": {
-    "angular-mocks": "^1.6.5"
+    "angular-mocks": "^1.6.5",
+    "angular-google-analytics": "^1.1.9"
   },
   "appPath": "app",
   "moduleName": "JobminerApp",
