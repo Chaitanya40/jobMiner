@@ -11,8 +11,8 @@
   angular.module('JobminerApp')
     .controller('JobsviewCtrl', JobsviewCtrl);
 
-  JobsviewCtrl.$inject = ['$state', '$stateParams', 'jobPromise', 'SplitJobDataService', 'ShortlistCookieService'];
-  function JobsviewCtrl($state, $stateParams, jobPromise, SplitJobDataService, ShortlistCookieService) {
+  JobsviewCtrl.$inject = ['$state', '$stateParams', 'jobPromise', 'SplitJobDataService', 'ShortlistCookieService', '$rootScope'];
+  function JobsviewCtrl($state, $stateParams, jobPromise, SplitJobDataService, ShortlistCookieService, $rootScope) {
     var ctrl = this;
     ctrl.isShortListState = false;
     ctrl.toggleSelectedJob = toggleSelectedJob;
@@ -48,6 +48,7 @@
       }
     }
 
+    // $rootScope.$on('addedFilterEvent', )
     function addTagFilters(tag) {
       if (!(ctrl.tagFilters.indexOf(tag) > -1)) {
         ctrl.tagFilters.push(tag);

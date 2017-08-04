@@ -83,8 +83,8 @@ function SplitJobDataService($filter, ShortlistCookieService) {
         return 'byObjectIntProp';
       case 'city':
       case 'company_name':
-      case 'location':
-      case 'position':
+      case 'job_location':
+      case 'job_position':
       case 'Source':
         return 'byObjectStrProp';
       case 'tags':

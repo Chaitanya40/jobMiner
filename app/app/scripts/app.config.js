@@ -27,6 +27,10 @@
           'placeholder': {
             templateUrl: '/scripts/jobs-list/jobslistplaceholder.template.html',
             controller: 'JobsExtractorCtrl as extrCtrl'
+          },
+          'filterui@root': {
+            templateUrl : '/scripts/filters/filter.template.html',
+            controller: 'FiltersviewCtrl as filterCtrl'
           }
         },
         resolve: {
@@ -45,12 +49,12 @@
         url: '/jobs',
         params: {
           all: true,
-          source: null,
-          days: null,
+          Source: null,
+          posted_days_ago: null,
           city: null,
-          company: null,
-          location: null,
-          position: null,
+          company_name: null,
+          job_location: null,
+          job_position: null,
           tags: null,
           shortlist: null
         },
