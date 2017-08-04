@@ -1,0 +1,63 @@
+<div class="main">
+  <div class="main_container container-fluid">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-xl-6 col-sm-12">
+        <div class="d-flex flex-column">
+          <div class="d-flex flex-wrap align-content-start col-xs-12 col-sm-12 col-md-4 mb-0">
+            <div ng-show="viewCtrl.tagFilters.length > 0" class="d-flex flex-row m-3">
+              <div>Filters:</div>
+              <div ng-repeat= "tag in viewCtrl.tagFilters" class="tag tag-design pl-2">
+                <span class= "remove" ng-click="viewCtrl.removeTagFilters(tag)"> {{::tag}}</span>
+              </div>
+
+            </div>
+          </div>
+          <!--<div data-class= "job type featured shortlisted recent" class="job-group">
+          <h3> {{viewCtrl.templateTitle}} </h3>
+        </div>-->
+
+        <div ng-show="viewCtrl.jobDetails.length == 0" class="job-main d-flex flex-wrap bd-highlight p-3">
+          <span> No Jobs found </span>
+        </div>
+
+          <div ng-repeat="job in viewCtrl.jobDetails" class="job-main d-flex flex-wrap bd-highlight mx-auto p-3">
+            <div class="hidden-sm-down col-md-1 company-logo ">
+              <img src="images/facebook.png" alt="Company logo" class="mx-auto">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 p-2">
+              <p class="job-role">
+                <a class="prevent-link " ng-click="filterJobs(job.job_position)" href="#"> {{::job.job_position}}</a></p>
+              <div class="company-data">
+                <span class="company-name ml-3"> {{::job.company_name}} </span>
+                <br><span class="job-location">{{::job.job_location}} </span>
+              </div>
+            </div>
+            <div class="d-flex flex-wrap align-content-start col-xs-12 col-sm-12 col-md-4 mb-0">
+              <div ng-repeat= "tag in job.tags" class="tag tag-design">
+                <span ng-click="viewCtrl.addTagFilters(tag)"> {{::tag}}</span>
+              </div>
+
+            </div>
+            <div class="d-flex align-content-center">
+              <div class="mx-auto my-auto">
+                <span> 1d</span>
+              </div>
+            </div>
+            <div class="hidden-sm-down col-md-2 apply-button">
+              <a data-toggle="tooltip" data-animation="false" data-placement="bottom" title="Apply on {{job.Source}}" target="_blank"
+                rel="external" class="prevent-link" href="{{::job.job_link}}">
+                <p> Apply </p>
+              </a>
+            </div>
+            <div class="hidden-sm-down m-auto">
+              <a data-toggle="tooltip" data-animation="false" data-placement="right" title="Shortlist this job" class="prevent-link destroytip"
+                href="#" ng-click="viewCtrl.toggleSelectedJob(job.index_col, viewCtrl.isShortListState)">
+          <span ng-class="['fa', viewCtrl.isShortListState ? 'fa-close heart-icon' :'fa-heart heart-icon']" title="Shortlist this job" aria-hidden="true"></span>
+          </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

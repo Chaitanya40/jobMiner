@@ -27,8 +27,8 @@ module.exports = function(config) {
       'bower_components/angular-ui-router/release/angular-ui-router.js',
       'bower_components/angular-sanitize/angular-sanitize.js',
       'bower_components/angular-cookies/angular-cookies.js',
-      'bower_components/angular-mocks/angular-mocks.js',
       'bower_components/angular-google-analytics/dist/angular-google-analytics.min.js',
+      'bower_components/angular-mocks/angular-mocks.js',
       // endbower
       'app/scripts/app.js',
       'app/scripts/*.js',

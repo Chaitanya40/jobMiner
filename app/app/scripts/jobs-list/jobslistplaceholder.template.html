@@ -1,35 +1,46 @@
 <div class="main">
   <div class="main_container container-fluid">
-  <div class="row justify-content-center">
-    <div class="col-lg-8 col-xl-9 col-sm-12">
-      <div class="d-flex flex-column">
-<ul class="ul-jobs list-inline">
-  <li class="list-inline-item">
-    <a ui-sref="root.jobs({all:true})" ui-sref-opts="{reload:true, inherit:false}">ALL</a>
-  </li>
-  <li class="list-inline-item">
-    <a ui-sref="root.jobs({all:false, days:
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-xl-9 col-sm-12">
+        <div class="d-flex flex-column">
+          <ul class="ul-jobs list-inline">
+            <li class="list-inline-item">
+              <a ui-sref="root.jobs({all:true})" ui-sref-opts="{reload:true, inherit:false}">ALL</a>
+            </li>
+            <li class="list-inline-item">
+              <a ui-sref="root.jobs({all:false, days:
       {property:'posted_days_ago',operator: 'between', values:[0,7]}
     })" ui-sref-opts="{reload:true, inherit:false}">Last Week</a>
-  </li>
-  <li class="list-inline-item">
-    <a ui-sref="root.jobs({all:false, shortlist:false, days:
+            </li>
+            <li class="list-inline-item">
+              <a ui-sref="root.jobs({all:false, shortlist:false, days:
       {property:'posted_days_ago',operator: 'between', values:[0,30]}
     })" ui-sref-opts="{reload:true, inherit:false}">Last Month</a>
-  </li>
-  <li class="list-inline-item">
-    <a ui-sref="root.jobs({all:false,shortlist:true})" ui-sref-opts="{reload:true, inherit:false}">Shortlisted Jobs
+            </li>
+            <li class="list-inline-item">
+              <a ui-sref="root.jobs({all:false,shortlist:true})" ui-sref-opts="{reload:true, inherit:false}">Shortlisted Jobs
       <span></span>
     </a>
-    <span></span>
-  </li>
-  </ul>
-  </div>
+              <span></span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
-  </div>
-  </div>
-  <ui-view name="jobslist"></ui-view>
+
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-2 col-xl-2 col-sm-12 float-left">
+<ui-view name="filterui"></ui-view>
+      </div>
+<div class="col-lg">
+<ui-view name="jobslist"></ui-view>
+</div>
+</div>
+    </div></div>
 
 
 <!--<jobs-list template-title="Shortlisted Jobs" job-details="ctr1.shortlistedJobsJson" shortlist-click="ctr1.remShortListJob($Id)"></jobs-list>

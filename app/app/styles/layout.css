@@ -7,12 +7,34 @@
 }
 
 .bg-logo{
-  background-image: url('/images/DataScienceWorldMap.png');
+  width: 100%;
+  height:100%;
+  position:absolute;
+  top:0;
+  left:0;
+  background-image: url('/images/bg-full.jpg');
+   filter:blur(2px);
+  background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.jumbotron-text{
+  position: relative;
+  top:60%;
+  width: 100%;
+  height: 100%;
+  font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;
+  text-transform: capitalize;
+  color:white;
+  vertical-align: middle;
+  line-height: 1.75;
 }
 
 .jumbotron{
-  height: 300px;
-  -webkit-background-size: cover;
-    background-size: cover;
+  height: 400px;
+  position:relative;
+}
 
+.font-quarter{
+  font-size: 1.2rem;
 }
