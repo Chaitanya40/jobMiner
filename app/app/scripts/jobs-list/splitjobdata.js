@@ -1,3 +1,4 @@
+(function(){
 'use strict';
 
 /**
@@ -94,3 +95,4 @@ function SplitJobDataService($filter, ShortlistCookieService) {
     }
   }
 }
+})();

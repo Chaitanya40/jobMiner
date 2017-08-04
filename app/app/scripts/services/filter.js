@@ -1,3 +1,4 @@
+(function(){
 'use strict';
 
 /**
@@ -73,3 +74,4 @@ function FilterService($rootScope) {
   }
 
 }
+})();

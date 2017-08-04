@@ -1,3 +1,4 @@
+(function() {
 'use strict';
 
 /**
@@ -38,3 +39,5 @@ function FiltersviewCtrl(jobPromise, FilterService, $rootScope, SharedFilterObje
   }
 
 }
+
+})();

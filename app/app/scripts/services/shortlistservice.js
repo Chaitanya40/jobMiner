@@ -1,3 +1,4 @@
+(function(){
 'use strict';
 
 /**
@@ -14,3 +15,4 @@ ShortlistService.$inject = ['SplitJobDataService', 'ShortlistCookieService'];
 function ShortlistService() {
 
 }
+})();
